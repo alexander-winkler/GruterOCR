@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:50</Created>
+    <LastChange>2020-04-14T13:52:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0252.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="678,72 678,93 718,93 718,72"/>
+        <TextEquiv index="1">
+          <Unicode>197</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="264,73 264,98 526,98 526,73"/>
+        <TextEquiv index="1">
+          <Unicode>AONII.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="56,151 58,149 66,148 148,148 218,145 362,144 415,142 557,142 561,144 593,144 593,112 230,112 182,114 99,114 84,112 49,112 43,117 42,126 40,128 29,130 1,130 1,157 56,157"/>
+        <TextEquiv index="1">
+          <Unicode>Felices ambo ſint Margaris atque Philippus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="516,171 516,143 415,143 362,145 218,146 148,149 67,149 67,175 289,175"/>
+        <TextEquiv index="1">
+          <Unicode>Coniuge ſit felix hic, felix illamarito.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="44,176 39,175 37,170 1,170 1,194 43,194"/>
+        <TextEquiv index="1">
+          <Unicode>in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="360,202 467,202 498,200 538,200 590,196 590,172 492,172 363,175 199,176 177,178 126,179 81,178 76,180 76,185 67,192 46,192 43,195 43,200 51,204 301,204"/>
+        <TextEquiv index="1">
+          <Unicode>Clara ſub hæc verſus profert Aglaia sonoros:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="537,229 687,229 687,197 580,197 571,199 538,201 498,201 467,203 360,203 301,205 272,204 193,207 141,207 113,209 69,208 47,204 40,198 35,197 1,197 1,225 37,226 41,228 43,233 359,233"/>
+        <TextEquiv index="1">
+          <Unicode>5icredament &amp; ament ſe Margaris atque Philippus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="426,260 530,260 585,257 617,257 617,230 275,234 242,236 160,236 142,238 102,238 55,237 43,234 40,228 37,227 1,227 1,253 26,253 30,256 31,260 40,263 331,263"/>
+        <TextEquiv index="1">
+          <Unicode>t nihil hos vnquam concordes lædere poſſit;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="342,293 413,290 639,287 639,260 426,261 297,265 211,265 163,267 101,267 47,265 35,263 30,260 1,260 1,287 17,287 20,294 210,294"/>
+        <TextEquiv index="1">
+          <Unicode>Omnia vincat amor, quæ multi dura queruntr:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="177,323 416,321 440,319 547,318 569,316 631,317 631,288 413,291 342,294 211,294 187,296 43,295 39,297 39,315 45,321 47,326 97,326"/>
+        <TextEquiv index="1">
+          <Unicode>Quidquid in humanis vulgus permobile rebus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="50,354 153,354 418,350 484,348 500,346 612,346 649,349 649,321 619,317 569,317 547,319 440,320 416,322 330,322 98,326 92,330 57,330 48,328 45,325 44,321 38,315 2,315 2,348 26,348 28,352 32,355 47,356"/>
+        <TextEquiv index="1">
+          <Unicode>Aut dolet aut tragicis verbis cauſatur iniqu,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="383,379 455,379 481,377 609,375 609,348 485,348 418,351 153,355 50,355 47,357 36,357 31,355 23,356 23,379 29,381 340,381"/>
+        <TextEquiv index="1">
+          <Unicode>Fortiter hoc ſuperet ſapientia docta Philippi,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="352,409 481,408 509,406 587,406 593,408 621,408 621,375 581,377 481,378 455,380 89,385 29,382 18,378 14,374 2,374 2,406 37,406 44,410 74,413 194,413"/>
+        <TextEquiv index="1">
+          <Unicode>Margaridis ſimul hoc laudata modeſtia vincat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="391,439 435,437 499,437 504,440 566,440 566,407 243,412 151,415 92,415 44,411 37,407 1,407 1,440 37,439 45,442 184,442"/>
+        <TextEquiv index="1">
+          <Unicode>iu Et quia nulla ſeges tam lætis florer ariſtis,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="426,467 506,467 506,441 499,438 439,438 391,440 324,440 287,442 185,442 150,444 73,444 45,443 39,441 39,469 42,470 309,470"/>
+        <TextEquiv index="1">
+          <Unicode>Vt non infelix lolium ſe miſceat illi,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="447,496 512,496 536,494 561,494 561,469 378,469 309,471 196,471 129,474 83,473 51,474 45,473 38,469 1,469 1,495 28,495 33,499 44,501 205,501"/>
+        <TextEquiv index="1">
+          <Unicode>Si quæ difficilis res his eueneritvnquam;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="483,526 542,524 596,520 622,520 622,493 536,495 512,497 447,497 293,501 206,501 92,504 59,504 36,501 28,496 1,496 1,527 372,527"/>
+        <TextEquiv index="1">
+          <Unicode>sAmborum concors facilem tolerantia reddat.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="337,557 453,556 625,550 694,551 694,522 577,522 542,525 483,527 373,527 364,529 224,531 87,532 39,530 39,559 283,559"/>
+        <TextEquiv index="1">
+          <Unicode>Sic redament &amp; ament ſe Margaris atque Philippus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="410,585 524,584 546,582 622,580 622,552 515,554 453,557 337,558 283,560 169,560 131,562 39,560 31,557 27,553 1,553 1,587 310,588"/>
+        <TextEquiv index="1">
+          <Unicode>i t nihil hos vnquam concordes lædere poſſit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="425,615 549,610 633,610 633,584 525,584 310,589 186,589 147,591 75,590 57,588 1,588 1,617 32,617 40,619 187,619"/>
+        <TextEquiv index="1">
+          <Unicode>Excipit Euphrosyne gracilimo voce ſororem.,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="242,646 331,646 356,644 460,644 578,639 625,639 625,613 484,613 425,616 188,619 155,621 40,620 32,618 1,618 1,648 158,649"/>
+        <TextEquiv index="1">
+          <Unicode>s Coniugium fauſtum ſit,felix atque Philippus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="225,676 408,675 459,672 515,672 584,669 629,669 632,671 667,671 667,641 554,641 460,645 356,645 331,647 242,647 158,650 1,649 1,678 132,679"/>
+        <TextEquiv index="1">
+          <Unicode>e Quod ineunt læti nunc Margaris atque Philippus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="512,701 617,703 617,673 459,673 408,676 225,677 190,679 133,679 127,683 70,683 59,680 1,679 1,705 303,705"/>
+        <TextEquiv index="1">
+          <Unicode>.Numina ſumma dei ſint illis fauſta precamur,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="339,733 492,732 539,730 539,703 443,703 185,708 71,708 36,706 36,733 39,734 295,735"/>
+        <TextEquiv index="1">
+          <Unicode>SIt rerum genitrix illis natura benigna.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="847,721 847,752 881,752 881,721"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="331,764 462,760 554,760 557,762 606,762 606,726 590,726 581,730 531,732 339,734 204,738 103,738 39,735 33,733 26,726 1,726 1,756 24,756 25,762 33,765 227,765"/>
+        <TextEquiv index="1">
+          <Unicode>Proſpera non vnquam deſit fortuna duobus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="528,789 528,764 228,765 203,767 137,768 108,766 35,766 35,792 388,792"/>
+        <TextEquiv index="1">
+          <Unicode>Nulla dies illis vnquam diluccat atra,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="82,824 287,824 575,817 575,790 503,790 265,795 179,795 127,797 66,796 51,799 34,799 23,795 1,795 1,827 39,827"/>
+        <TextEquiv index="1">
+          <Unicode>qualem viuant ætatem tempore longo:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="615,846 615,819 514,819 443,822 287,825 224,824 150,826 82,825 40,827 33,832 33,836 39,842 44,845 47,845 54,853 296,853"/>
+        <TextEquiv index="1">
+          <Unicode>Vtque dies paribus coniunxit mentibus vnus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="37,841 33,837 1,837 1,859 37,859"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="31,882 136,884 190,882 377,881 427,878 585,877 589,876 589,850 444,850 408,852 121,856 76,855 64,857 55,856 47,861 1,861 1,885 26,885"/>
+        <TextEquiv index="1">
+          <Unicode>Amibos. ſic animis concordes auferat vnus:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="438,908 512,908 557,906 558,880 408,880 377,882 190,883 136,885 32,883 32,911 300,911"/>
+        <TextEquiv index="1">
+          <Unicode>Neue ſuæ cernens vxoris baſta Philippus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="67,942 158,942 206,940 370,940 418,938 492,938 544,935 604,934 629,935 637,939 652,939 658,938 658,904 594,904 512,909 221,912 156,914 36,913 27,910 24,907 17,907 17,948 36,948"/>
+        <TextEquiv index="1">
+          <Unicode>Neue ſui tumulans quoque Margaris oſſa maiti,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="68,972 148,972 193,970 276,971 443,967 553,967 556,969 587,969 587,938 67,943 50,946 46,948 30,949 30,977 37,977"/>
+        <TextEquiv index="1">
+          <Unicode>Oſcula deſertis thalamis ſecreta requirant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="37,1001 50,1000 152,1001 234,999 438,998 497,995 517,996 517,968 443,968 276,972 193,971 148,973 68,973 47,977 30,978 31,1004"/>
+        <TextEquiv index="1">
+          <Unicode>Ambo mortalis ſibi ſint ſolatia vitæ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="513,1026 606,1023 627,1023 639,1026 660,1026 660,996 497,996 438,999 234,1000 152,1002 50,1001 37,1002 30,1006 30,1022 38,1028 364,1028"/>
+        <TextEquiv index="1">
+          <Unicode>Quam multos dederint hianc ipſis fataper annos,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="34,1065 48,1064 56,1059 173,1060 247,1058 360,1058 502,1056 553,1052 610,1053 610,1024 460,1028 261,1029 139,1032 50,1031 41,1030 34,1027 31,1024 26,1024 26,1070 28,1070"/>
+        <TextEquiv index="1">
+          <Unicode>Coniugium fauſtum ſit, felix atque beatum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="122,1088 215,1089 328,1087 446,1087 480,1085 587,1083 661,1084 661,1054 532,1054 502,1057 247,1059 173,1061 56,1060 48,1065 34,1066 29,1070 30,1090 100,1090"/>
+        <TextEquiv index="1">
+          <Unicode>Quod ineunt læti, nunc Margaris atq; Philippus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="529,1113 606,1113 606,1086 480,1086 446,1088 114,1090 114,1116 438,1116"/>
+        <TextEquiv index="1">
+          <Unicode>Dum ſeſe recreat ludis operata iuentus,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="438,1145 462,1145 470,1143 491,1142 580,1144 584,1141 603,1141 606,1143 608,1142 608,1114 529,1114 494,1116 278,1119 86,1118 79,1122 72,1122 60,1111 25,1111 25,1149 431,1149"/>
+        <TextEquiv index="1">
+          <Unicode>Grandæui patres hic matronæque ſedentes,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="742,1137 654,1137 644,1141 615,1141 606,1144 603,1142 584,1142 580,1145 515,1143 478,1144 478,1169 742,1169"/>
+        <TextEquiv index="1">
+          <Unicode>N Iucudis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="7,1150 7,1191 72,1191 72,1150"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

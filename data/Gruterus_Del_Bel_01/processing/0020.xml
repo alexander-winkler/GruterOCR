@@ -1,0 +1,2665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:53</Created>
+    <LastChange>2020-04-14T13:52:53</LastChange>
+  </Metadata>
+  <Page imageFilename="0020.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="86,1 86,21 304,21 304,1"/>
+        <TextEquiv index="1">
+          <Unicode>i fds</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="483,1 483,31 772,31 772,1"/>
+        <TextEquiv index="1">
+          <Unicode>æ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="721,1 695,1 695,6 699,7 721,7"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="808,8 808,17 831,17 831,8"/>
+        <TextEquiv index="1">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="582,24 580,23 560,23 560,28 582,28"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="136,39 136,56 190,56 190,39"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="464,36 464,51 488,51 488,36"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="591,37 591,52 653,52 653,37"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="737,82 788,84 798,80 836,76 840,74 840,64 829,62 823,58 806,57 791,52 778,51 777,42 771,39 674,38 675,50 684,51 688,54 704,54 727,59 749,60 751,63 722,67 718,70 712,70 707,73 690,73 688,75 682,75 677,78 677,84 679,86 699,89 735,89"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="506,64 510,61 555,61 555,42 542,41 535,37 488,37 488,48 484,54 480,54 480,64 499,65"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="48,38 48,55 110,55 110,38"/>
+        <TextEquiv index="1">
+          <Unicode>Ha</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="430,83 430,70 432,68 463,70 479,68 479,54 432,49 425,45 417,43 412,38 397,38 395,48 362,47 357,49 354,53 342,53 339,59 330,60 329,40 327,38 300,38 288,44 254,46 243,55 232,55 232,70 237,74 283,74 295,75 298,77 320,78 344,77 361,73 373,73 377,75 372,78 372,85 428,85"/>
+        <TextEquiv index="1">
+          <Unicode>r</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="844,48 827,48 827,59 829,61 844,63"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="522,75 567,73 571,76 577,76 602,71 606,71 608,75 623,77 677,77 682,74 688,74 690,72 707,72 708,61 706,60 706,56 704,55 679,55 664,59 623,59 618,54 610,52 564,52 562,54 561,59 556,62 550,63 514,62 506,65 492,66 467,71 440,69 440,80 517,80"/>
+        <TextEquiv index="1">
+          <Unicode>i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="180,90 196,89 202,84 217,82 217,66 207,66 180,70 164,75 151,75 147,71 143,70 143,64 141,62 122,62 101,58 79,59 80,73 91,74 104,79 114,80 119,83 125,83 126,91 128,93 169,93"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="117,99 117,83 114,81 104,80 91,75 68,72 61,68 23,68 23,80 29,84 50,84 62,88 75,89 83,100 93,99 99,101 115,101"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="276,92 282,88 290,94 338,94 340,92 340,79 321,78 308,79 297,77 251,77 236,81 205,85 205,95 261,95"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="848,109 839,105 802,106 801,95 799,93 796,93 790,86 761,85 759,87 759,90 754,92 720,92 710,90 687,89 682,87 660,87 622,77 591,77 591,100 611,100 611,110 616,112 652,113 662,110 706,108 733,110 734,115 738,118 765,120 782,124 848,124"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="839,79 805,80 801,82 801,92 839,92"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="9,86 9,106 75,106 75,86"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="519,88 505,88 503,84 436,85 437,105 467,104 486,99 498,105 519,105"/>
+        <TextEquiv index="1">
+          <Unicode>1</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="534,88 534,94 560,94 560,88"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="237,117 245,117 245,99 229,102 216,102 200,100 194,94 170,93 167,94 167,111 169,113 188,114 190,119 231,119"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="480,103 473,103 467,105 437,106 434,104 434,97 432,95 387,95 385,97 331,95 331,111 355,112 359,115 363,113 386,114 389,111 397,112 401,118 421,118 433,120 480,120"/>
+        <TextEquiv index="1">
+          <Unicode>F</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="79,104 79,114 105,114 105,104"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="649,117 646,117 641,114 607,112 597,115 564,115 558,110 558,106 511,106 502,107 500,109 500,121 506,123 546,124 551,131 555,132 592,132 598,130 649,132"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="176,136 206,133 207,122 196,122 189,119 152,120 143,116 139,116 137,114 137,111 111,111 111,134 113,137 125,136 140,141 174,141"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="309,114 309,127 358,127 358,114"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="686,112 686,122 720,122 720,112"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="85,116 85,130 109,130 109,116"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="107,133 85,131 84,129 74,126 66,120 47,120 47,137 70,139 76,144 107,144"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="273,134 287,135 287,121 229,120 222,121 222,134 224,135 256,136"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="430,134 436,134 436,121 393,122 393,137 426,138"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="471,122 471,139 511,139 511,122"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="733,128 676,128 676,136 680,138 733,139"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="885,124 812,126 786,125 777,127 775,129 775,140 885,140"/>
+        <TextEquiv index="1">
+          <Unicode>..</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="819,162 814,161 814,157 811,153 801,152 795,148 767,147 762,141 759,140 731,140 724,141 719,144 713,144 712,141 710,140 680,139 669,134 663,133 608,133 608,146 620,147 631,150 690,152 690,163 695,163 698,165 715,165 732,161 754,164 779,164 782,166 790,166 791,172 819,172"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="251,141 249,140 225,139 224,136 192,136 192,147 207,148 208,150 219,153 251,154"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="409,170 419,170 429,166 454,166 456,170 465,172 513,172 515,170 514,161 518,155 534,156 540,155 542,153 551,152 572,152 573,138 554,137 539,138 527,141 511,141 507,142 503,149 483,149 474,151 463,151 459,149 412,149 410,151 410,154 407,155 406,146 404,144 390,140 366,139 356,141 347,145 333,145 330,139 300,138 294,135 278,135 278,168 284,167 316,169 323,164 339,163 361,164 383,172 398,173"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="44,140 44,152 80,152 80,140"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="850,141 822,142 813,144 813,154 815,157 850,157"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="162,172 170,167 210,171 217,171 223,168 266,169 266,153 256,153 252,155 231,155 219,154 210,151 185,152 178,151 177,145 154,145 154,149 150,151 114,152 115,172 152,173"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="663,163 689,163 690,153 631,151 620,148 609,148 604,149 600,152 600,162 605,165 658,166"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="538,156 538,162 567,162 567,156"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l045">
+        <Coords points="80,153 80,169 113,169 113,153"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l046">
+        <Coords points="16,163 16,177 60,177 60,163"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l047">
+        <Coords points="574,165 574,174 603,174 603,165"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l048">
+        <Coords points="389,187 402,186 406,184 424,184 435,186 468,186 469,173 459,172 447,168 426,168 419,171 409,171 395,174 379,172 361,165 327,165 328,179 345,182 358,182 359,188 362,190 386,190"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l049">
+        <Coords points="821,188 849,189 849,168 828,167 824,175 817,176 782,176 781,167 719,167 719,180 727,184 763,185 764,191 802,191"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l050">
+        <Coords points="277,169 277,182 295,182 295,169"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l051">
+        <Coords points="222,173 222,185 253,185 253,173"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l052">
+        <Coords points="514,171 514,185 560,185 560,171"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l053">
+        <Coords points="613,168 613,183 656,183 656,168"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l054">
+        <Coords points="197,186 209,183 209,171 169,170 163,174 163,187 178,187"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l055">
+        <Coords points="491,175 491,191 512,191 512,175"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l056">
+        <Coords points="569,174 569,189 595,189 595,174"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l057">
+        <Coords points="99,196 110,195 110,178 61,176 56,178 56,199 93,199"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l058">
+        <Coords points="690,177 690,194 714,194 714,177"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l059">
+        <Coords points="119,180 119,194 137,194 137,180"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l060">
+        <Coords points="656,183 616,183 614,185 615,192 632,194 637,196 656,196"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l061">
+        <Coords points="362,204 361,190 329,189 321,184 253,185 247,188 247,200 260,200 265,204 285,204 288,202 304,201 332,205 355,206"/>
+        <TextEquiv index="1">
+          <Unicode>,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l062">
+        <Coords points="239,188 233,187 229,184 208,184 194,187 191,191 191,200 193,202 239,202"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l063">
+        <Coords points="414,197 414,186 389,188 386,191 386,198 388,200 404,201"/>
+        <TextEquiv index="1">
+          <Unicode>æ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l064">
+        <Coords points="212,224 228,223 243,220 251,223 262,223 265,220 295,219 302,216 308,218 338,218 344,222 353,223 402,223 410,222 420,218 447,216 456,208 463,206 494,208 513,204 557,204 565,206 589,205 603,210 629,210 645,216 680,216 686,214 690,210 704,210 705,216 707,218 756,218 763,216 767,213 791,212 791,198 770,197 752,192 718,192 714,194 682,193 675,199 654,200 643,199 632,195 611,193 601,188 526,188 513,189 511,191 498,193 482,188 446,188 435,190 429,195 415,197 413,199 407,200 404,202 403,205 361,205 355,207 348,207 324,205 318,203 296,202 288,203 285,205 265,206 260,201 245,201 233,204 207,205 191,209 188,212 181,214 179,216 162,216 160,218 152,219 152,227 202,227"/>
+        <TextEquiv index="1">
+          <Unicode>a mrt.5</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l065">
+        <Coords points="844,190 814,190 796,192 796,201 844,201"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l066">
+        <Coords points="96,199 96,210 112,210 112,199"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l067">
+        <Coords points="179,215 181,213 184,213 187,211 187,204 185,202 160,202 137,199 117,199 117,216 161,216"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l068">
+        <Coords points="819,206 819,219 849,219 849,206"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l069">
+        <Coords points="518,220 523,219 562,218 562,206 513,205 508,208 469,209 470,224 514,225"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l070">
+        <Coords points="607,213 607,230 632,230 632,213"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l071">
+        <Coords points="47,214 47,235 110,235 110,214"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l072">
+        <Coords points="759,236 775,236 786,231 799,232 824,239 848,238 848,223 830,222 822,218 818,214 805,213 778,214 767,219 750,220 743,224 717,224 701,220 685,220 682,223 682,236 685,237 696,237 711,240 745,240"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l073">
+        <Coords points="343,228 343,222 338,219 296,219 274,221 274,231 277,232 292,234 325,234"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l074">
+        <Coords points="589,239 602,240 611,238 612,228 609,226 604,226 600,221 540,221 541,236 564,240 587,241"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l075">
+        <Coords points="183,231 154,229 151,227 151,224 149,222 115,223 115,234 117,236 129,237 138,240 171,246 183,246"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l076">
+        <Coords points="582,271 585,269 606,268 607,256 596,254 584,254 583,243 580,241 564,241 551,238 544,238 540,236 520,236 517,240 509,242 488,242 484,240 469,239 467,234 467,224 409,224 400,229 345,228 337,232 332,232 328,234 327,240 306,241 306,252 314,255 324,255 329,259 340,262 354,261 357,258 389,256 412,259 439,259 455,256 519,257 538,254 565,254 565,258 558,258 555,261 555,270 557,272 570,272"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l077">
+        <Coords points="487,233 487,241 515,241 515,233"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l078">
+        <Coords points="175,269 179,265 192,265 194,263 199,262 203,263 235,259 237,253 253,251 253,230 232,230 227,234 226,238 207,239 199,244 195,250 192,251 130,251 128,253 123,254 123,270 132,270"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l079">
+        <Coords points="847,251 847,239 813,240 810,237 768,237 753,238 745,241 711,241 672,235 635,235 613,237 609,240 602,241 591,240 591,253 597,254 621,253 640,249 661,249 676,253 693,254 806,255"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l080">
+        <Coords points="64,236 64,248 114,248 114,236"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l081">
+        <Coords points="735,257 725,255 693,255 676,254 669,252 631,252 608,255 608,265 610,267 662,265 667,268 701,271 735,271"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l082">
+        <Coords points="16,252 16,272 109,272 109,252"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l083">
+        <Coords points="363,275 389,275 404,272 407,270 407,262 404,259 389,257 375,258 360,262 340,263 329,260 324,256 314,256 301,251 286,251 287,267 298,268 304,273 313,273 327,277 332,277 335,275 343,277 358,277"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l084">
+        <Coords points="296,269 282,267 273,264 194,264 192,266 188,266 188,276 238,277 243,280 296,280"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l085">
+        <Coords points="403,287 417,285 434,280 443,280 444,261 415,261 414,268 410,272 389,276 372,276 370,284 367,288 371,291 399,291"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l086">
+        <Coords points="461,262 461,279 521,279 521,262"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l087">
+        <Coords points="828,268 828,278 850,278 850,268"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l088">
+        <Coords points="629,285 642,285 645,282 654,282 665,279 665,267 644,266 627,269 607,268 602,270 587,270 588,282 613,287 627,287"/>
+        <TextEquiv index="1">
+          <Unicode>?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l089">
+        <Coords points="159,284 159,270 133,270 133,285 144,285"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l090">
+        <Coords points="848,280 815,278 803,274 784,274 772,278 772,285 781,285 783,288 787,288 791,292 807,294 848,294"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l091">
+        <Coords points="357,278 335,278 336,286 356,286"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l092">
+        <Coords points="370,281 370,276 359,277 357,286 367,287"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l093">
+        <Coords points="619,288 613,288 582,281 566,281 556,275 529,275 520,281 515,282 484,282 476,279 449,278 444,282 431,282 406,288 406,296 422,296 427,300 442,298 514,300 518,299 522,294 530,292 553,292 558,296 577,297 581,300 586,300 594,303 619,303"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l094">
+        <Coords points="781,286 767,286 759,281 731,278 667,277 665,280 659,282 645,283 642,286 632,286 632,296 782,296"/>
+        <TextEquiv index="1">
+          <Unicode>5 l .</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l095">
+        <Coords points="514,346 514,332 508,332 503,329 399,329 391,320 329,322 325,318 323,311 259,310 244,308 228,308 215,305 174,304 165,300 142,299 139,296 138,286 118,286 114,291 112,289 111,281 109,279 102,278 89,278 77,282 38,282 30,278 13,278 13,296 29,296 36,300 83,299 88,302 92,302 94,304 94,311 97,313 119,313 120,321 122,324 143,324 159,322 221,323 248,321 252,323 265,324 267,326 281,329 307,330 314,334 324,336 383,337 384,342 404,346 441,344 450,347 499,347"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l096">
+        <Coords points="338,301 338,287 330,285 310,285 304,281 277,281 255,283 256,303 319,303"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l097">
+        <Coords points="178,282 165,282 160,285 142,286 142,298 178,298"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l098">
+        <Coords points="181,285 181,303 224,303 224,285"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l099">
+        <Coords points="580,307 580,300 577,298 558,297 553,293 530,293 521,296 521,304 525,307 532,309 564,311"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l100">
+        <Coords points="370,318 373,315 374,311 413,311 423,309 423,298 404,297 398,293 358,293 351,295 336,303 332,303 327,308 327,319 329,321 357,321"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l101">
+        <Coords points="809,295 809,312 849,312 849,295"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l102">
+        <Coords points="676,312 700,311 700,296 678,296 670,299 634,299 627,303 610,304 610,314 670,314"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l103">
+        <Coords points="458,302 458,312 492,312 492,302"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l104">
+        <Coords points="678,329 684,328 726,328 729,325 744,325 760,321 769,322 769,305 739,305 738,309 733,310 719,310 712,312 696,313 676,313 657,317 631,317 610,315 604,311 593,308 579,308 564,312 518,308 516,310 515,317 505,317 503,319 503,328 505,330 515,331 517,333 566,332 569,330 580,330 587,327 619,327 632,329 636,333 671,333"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l105">
+        <Coords points="120,330 120,322 118,319 112,319 105,315 100,315 96,313 75,311 65,308 40,308 40,323 44,325 50,325 55,327 73,327 78,331 78,333 117,333"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l106">
+        <Coords points="827,321 832,321 832,312 800,312 800,324 824,324"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l107">
+        <Coords points="444,313 409,312 399,314 399,328 444,328"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l108">
+        <Coords points="853,317 844,318 835,322 827,322 824,325 816,325 816,338 853,338"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l109">
+        <Coords points="216,324 216,334 262,334 262,324"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l110">
+        <Coords points="799,330 783,330 773,326 731,326 731,336 759,340 799,340"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l111">
+        <Coords points="265,353 284,352 286,350 286,341 257,336 223,336 216,333 199,333 195,330 195,327 193,325 155,325 142,328 122,329 119,333 109,335 100,342 100,350 103,353 136,354 147,351 148,344 180,343 186,349 240,350 243,354 247,355 263,355"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l112">
+        <Coords points="632,339 635,337 635,333 632,330 626,329 585,329 580,331 567,332 567,344 599,344"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l113">
+        <Coords points="741,338 730,337 727,335 714,335 707,330 678,330 678,339 680,342 685,344 704,346 741,346"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l114">
+        <Coords points="12,340 12,348 52,348 52,340"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l115">
+        <Coords points="795,356 793,355 775,352 716,352 708,350 703,346 685,345 680,343 676,338 635,338 632,340 626,340 610,344 600,344 595,346 595,352 597,356 594,359 594,370 610,370 612,368 622,366 646,365 652,362 665,361 681,361 683,363 689,364 699,364 705,366 718,367 724,370 795,370"/>
+        <TextEquiv index="1">
+          <Unicode>e-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l116">
+        <Coords points="334,364 344,362 354,362 362,360 386,360 386,343 352,342 336,343 318,350 288,350 281,354 247,356 247,368 328,368"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l117">
+        <Coords points="836,344 836,362 852,362 852,344"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l118">
+        <Coords points="583,351 544,351 544,362 546,363 553,365 583,365"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l119">
+        <Coords points="64,348 64,362 93,362 93,348"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l120">
+        <Coords points="200,399 233,398 304,399 306,397 306,389 305,386 296,386 288,382 239,381 232,383 186,383 173,390 165,390 163,388 148,388 143,382 111,382 107,380 116,376 130,375 138,371 147,369 211,370 229,368 230,355 228,351 180,350 152,351 136,355 112,354 108,355 106,357 106,360 102,363 89,363 85,365 63,364 57,359 51,357 43,357 43,375 51,377 54,383 67,385 72,392 98,392 104,394 108,400 113,401 198,401"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l121">
+        <Coords points="416,366 433,366 433,355 402,356 402,369 412,369"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l122">
+        <Coords points="502,397 507,394 508,386 545,386 548,383 580,384 594,388 614,388 623,386 633,386 642,381 653,381 659,377 669,377 669,364 651,364 646,366 622,367 612,369 609,372 593,372 585,367 578,366 553,366 549,364 532,364 530,367 521,368 501,368 492,371 456,372 452,376 449,376 445,381 426,382 425,399 462,399"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l123">
+        <Coords points="826,367 826,375 849,375 849,367"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l124">
+        <Coords points="424,366 424,376 449,376 449,366"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l125">
+        <Coords points="291,371 291,386 316,386 316,371"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l126">
+        <Coords points="144,372 144,388 174,388 174,372"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l127">
+        <Coords points="356,389 377,389 389,391 414,390 414,376 407,374 392,374 378,372 350,372 347,376 344,376 342,378 320,379 311,385 311,392 345,392"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l128">
+        <Coords points="680,372 680,398 845,398 845,372"/>
+        <TextEquiv index="1">
+          <Unicode>Ii</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l129">
+        <Coords points="40,384 40,400 64,400 64,384"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l130">
+        <Coords points="758,385 758,419 846,419 846,385"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l131">
+        <Coords points="663,388 663,402 680,402 680,388"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l132">
+        <Coords points="521,391 521,399 538,399 538,391"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l133">
+        <Coords points="389,404 391,403 391,395 389,393 377,390 356,390 346,392 343,394 336,394 336,405 340,407 366,407"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l134">
+        <Coords points="584,398 584,417 672,417 672,398"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l135">
+        <Coords points="722,400 722,414 734,414 734,400"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l136">
+        <Coords points="418,448 418,437 416,436 390,437 370,435 365,430 360,430 359,428 376,427 393,421 414,419 417,417 418,414 418,400 394,400 393,403 386,406 358,408 347,413 339,420 319,421 319,440 322,440 328,445 358,447 362,450 415,450"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l137">
+        <Coords points="232,411 242,410 243,400 200,400 198,402 159,403 159,414 184,414 188,416 227,416"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l138">
+        <Coords points="296,427 303,422 304,418 335,419 341,414 341,408 338,406 328,406 322,403 308,400 294,400 276,406 249,407 242,411 231,413 231,425 235,429 283,429"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l139">
+        <Coords points="96,405 80,405 68,401 40,402 40,418 96,418"/>
+        <TextEquiv index="1">
+          <Unicode>S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l140">
+        <Coords points="553,428 558,419 563,419 563,404 542,405 541,410 538,412 512,413 512,430 546,430"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l141">
+        <Coords points="480,411 480,417 504,417 504,411"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l142">
+        <Coords points="823,436 824,432 845,432 845,416 815,419 780,419 756,418 746,414 725,415 720,412 692,412 681,414 673,418 630,416 623,420 623,434 705,432 718,430 720,432 755,432 776,434 784,439 818,439"/>
+        <TextEquiv index="1">
+          <Unicode>.M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l143">
+        <Coords points="211,453 265,454 294,452 295,430 269,430 265,431 263,436 258,437 236,437 230,440 217,440 209,436 185,434 185,432 191,429 191,419 187,416 146,416 131,420 116,420 112,421 105,426 88,427 88,447 98,447 103,444 111,443 130,444 133,446 167,446 168,454 170,456 183,456"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l144">
+        <Coords points="392,417 392,437 486,437 486,417"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l145">
+        <Coords points="557,419 557,427 584,427 584,419"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l146">
+        <Coords points="25,422 25,432 73,432 73,422"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l147">
+        <Coords points="484,431 484,445 539,445 539,431"/>
+        <TextEquiv index="1">
+          <Unicode>A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l148">
+        <Coords points="692,433 692,439 712,439 712,433"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l149">
+        <Coords points="595,434 595,451 619,451 619,434"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l150">
+        <Coords points="863,442 849,442 845,439 819,439 815,441 806,441 806,455 808,456 864,456"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l151">
+        <Coords points="62,453 62,440 42,439 42,456 58,456"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l152">
+        <Coords points="743,445 743,458 777,458 777,445"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l153">
+        <Coords points="687,446 644,446 633,449 621,449 607,452 607,460 610,461 687,461"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l154">
+        <Coords points="136,447 136,460 149,460 149,447"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l155">
+        <Coords points="303,471 305,469 327,466 331,463 375,461 375,451 362,451 358,448 350,447 321,447 314,453 284,454 276,458 276,472 295,472"/>
+        <TextEquiv index="1">
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l156">
+        <Coords points="86,472 104,472 109,470 109,460 106,458 97,457 95,449 72,449 70,451 63,453 56,459 39,461 40,476 59,476"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l157">
+        <Coords points="398,452 398,467 432,467 432,452"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l158">
+        <Coords points="812,487 838,485 839,470 813,470 807,468 802,463 791,461 707,461 699,464 659,461 649,461 642,463 619,463 610,462 606,460 551,460 547,458 547,452 495,452 494,455 471,455 471,472 514,472 520,468 523,468 527,470 527,473 531,476 555,479 586,479 599,477 666,477 678,475 709,476 713,479 769,478 771,480 771,485 775,488 810,489"/>
+        <TextEquiv index="1">
+          <Unicode>. :.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l159">
+        <Coords points="810,456 810,470 826,470 826,456"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l160">
+        <Coords points="118,489 121,487 153,488 167,486 226,486 228,484 229,475 259,476 259,459 246,456 211,455 192,460 179,460 173,463 115,462 113,464 113,468 104,473 59,477 38,476 38,490 98,490"/>
+        <TextEquiv index="1">
+          <Unicode>iie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l161">
+        <Coords points="285,493 287,489 290,487 305,487 315,482 339,482 341,480 341,468 324,467 318,469 305,470 303,472 270,473 265,477 243,478 243,496 273,496"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l162">
+        <Coords points="561,498 569,496 575,497 591,494 591,483 587,482 564,483 541,479 484,482 483,474 481,473 407,474 407,485 411,487 435,489 441,493 475,495 480,500 498,500 529,497 536,500 559,500"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l163">
+        <Coords points="671,478 671,490 712,490 712,478"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l164">
+        <Coords points="327,483 327,508 427,508 427,483"/>
+        <TextEquiv index="1">
+          <Unicode>C</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l165">
+        <Coords points="125,489 125,500 217,500 217,489"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l166">
+        <Coords points="688,503 687,491 642,489 640,486 600,486 600,503 679,505"/>
+        <TextEquiv index="1">
+          <Unicode>:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l167">
+        <Coords points="798,491 796,490 775,489 772,487 759,487 759,503 798,503"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l168">
+        <Coords points="64,493 64,508 116,508 116,493"/>
+        <TextEquiv index="1">
+          <Unicode>s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l169">
+        <Coords points="805,495 805,505 842,505 842,495"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l170">
+        <Coords points="571,498 571,508 594,508 594,498"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l171">
+        <Coords points="832,519 835,519 835,505 759,505 749,503 733,503 732,496 730,494 712,494 710,496 710,501 708,503 687,504 679,506 600,504 589,509 571,510 571,521 575,522 623,521 626,518 642,517 646,521 668,522 700,522 719,519 748,521 756,523 826,523"/>
+        <TextEquiv index="1">
+          <Unicode>a, i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l172">
+        <Coords points="343,523 361,521 364,519 364,509 362,507 319,507 315,501 277,501 269,498 228,498 226,503 184,503 169,500 147,501 147,518 157,516 178,519 225,518 228,514 231,513 245,513 249,517 265,516 270,518 302,521 304,528 335,528"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l173">
+        <Coords points="493,501 493,517 541,517 541,501"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l174">
+        <Coords points="214,530 224,530 224,519 178,520 163,518 145,519 136,517 134,510 108,510 96,512 92,515 85,516 86,530 113,529 137,533 211,533"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l175">
+        <Coords points="476,539 477,531 506,531 509,528 509,518 506,516 494,515 471,515 465,520 408,520 408,534 411,536 446,538 448,541 473,541"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l176">
+        <Coords points="623,517 623,524 637,524 637,517"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l177">
+        <Coords points="285,520 255,519 245,522 245,531 265,532 270,535 285,535"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l178">
+        <Coords points="584,523 575,523 558,519 537,519 537,536 584,536"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l179">
+        <Coords points="373,537 376,537 381,533 381,522 379,520 363,520 361,522 343,524 339,526 340,540 369,541"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l180">
+        <Coords points="783,524 783,539 808,539 808,524"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l181">
+        <Coords points="759,549 759,534 754,530 749,529 726,528 716,526 710,523 657,524 640,528 626,528 627,539 637,540 640,542 648,542 656,546 687,547 698,546 708,543 715,545 717,547 727,549 750,550"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l182">
+        <Coords points="106,548 106,534 88,534 81,526 51,526 51,548 102,549"/>
+        <TextEquiv index="1">
+          <Unicode>a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l183">
+        <Coords points="267,534 265,533 245,532 242,529 229,529 227,531 223,531 223,544 267,544"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l184">
+        <Coords points="206,549 206,534 170,535 159,533 137,534 125,531 118,531 108,534 109,548 123,548 126,545 131,544 144,544 157,545 160,548 166,550 175,550"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l185">
+        <Coords points="492,534 492,546 512,546 512,534"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l186">
+        <Coords points="811,548 840,547 840,536 803,537 803,550 808,550"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l187">
+        <Coords points="395,536 393,534 381,534 378,537 372,539 372,546 395,546"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l188">
+        <Coords points="609,553 637,550 637,541 631,541 618,537 601,536 585,536 580,538 572,538 569,540 569,553 573,556 605,556"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l189">
+        <Coords points="497,563 507,564 510,563 513,558 519,558 519,547 517,548 514,546 503,546 497,540 476,540 462,546 407,546 407,558 424,561 428,565 491,565"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l190">
+        <Coords points="421,562 407,559 404,556 385,554 379,550 362,546 357,542 344,542 337,544 287,545 287,560 304,561 312,565 320,566 343,565 348,569 354,570 382,573 401,573 412,576 421,576"/>
+        <TextEquiv index="1">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l191">
+        <Coords points="813,549 813,561 866,561 866,549"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l192">
+        <Coords points="170,573 200,570 236,571 272,576 292,576 292,561 275,562 272,560 272,551 243,551 242,553 225,553 217,551 163,551 158,553 124,552 122,554 122,559 113,563 81,563 73,565 59,565 59,580 109,579 117,577 136,580 166,580"/>
+        <TextEquiv index="1">
+          <Unicode>r</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l193">
+        <Coords points="799,552 736,551 721,548 642,548 634,552 609,554 605,557 605,563 607,565 611,563 667,563 673,566 725,565 755,569 799,569"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l194">
+        <Coords points="68,550 68,563 119,563 119,550"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l195">
+        <Coords points="1,543 1,581 16,581 16,543"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l196">
+        <Coords points="571,563 569,561 512,562 507,565 497,564 489,566 489,578 570,579"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l197">
+        <Coords points="609,564 609,576 646,576 646,564"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l198">
+        <Coords points="837,568 806,569 792,572 792,585 837,585"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l199">
+        <Coords points="394,594 393,580 358,579 351,575 346,575 344,567 306,567 305,572 301,574 301,587 320,588 330,591 346,592 362,597 381,597"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l200">
+        <Coords points="296,587 293,585 292,577 269,577 247,573 208,571 184,572 175,574 176,585 224,586 229,589 241,590 246,595 263,600 296,600"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l201">
+        <Coords points="747,585 747,570 708,570 704,572 680,572 681,586 686,588 709,588"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l202">
+        <Coords points="420,604 467,604 479,602 484,598 518,598 525,600 541,600 546,598 546,588 541,585 530,585 524,581 518,580 486,579 482,576 482,574 479,571 456,571 446,573 435,573 433,575 432,587 406,587 402,588 395,595 381,598 381,608 404,609"/>
+        <TextEquiv index="1">
+          <Unicode>T(.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l203">
+        <Coords points="200,602 233,603 233,590 228,590 224,587 214,586 159,585 135,580 89,580 64,582 57,585 48,585 48,603 68,602 74,596 79,595 94,595 114,598 132,598 133,606 136,607 174,608"/>
+        <TextEquiv index="1">
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l204">
+        <Coords points="795,597 795,586 787,586 784,583 764,583 755,586 699,589 699,602 757,602"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l205">
+        <Coords points="799,589 799,600 828,600 828,589"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l206">
+        <Coords points="682,587 669,587 670,598 683,599"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l207">
+        <Coords points="682,600 670,599 667,596 658,596 648,593 611,592 608,593 608,606 682,607"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l208">
+        <Coords points="319,613 325,613 332,609 365,609 365,598 316,598 308,601 295,602 233,604 233,617 315,617"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l209">
+        <Coords points="87,601 87,608 99,608 99,601"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l210">
+        <Coords points="636,608 594,605 592,597 565,597 556,599 546,599 541,601 505,599 505,610 514,610 520,616 571,616 577,621 636,621"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l211">
+        <Coords points="420,605 420,613 454,613 454,605"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l212">
+        <Coords points="840,606 812,606 805,608 768,606 768,623 783,623 789,625 791,632 829,632 840,634"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l213">
+        <Coords points="312,604 312,660 680,660 680,604"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l214">
+        <Coords points="208,630 208,616 182,614 179,609 111,609 107,611 87,611 87,628 112,627 115,624 119,623 156,623 166,626 171,631 204,632"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l215">
+        <Coords points="396,626 399,624 405,624 409,622 410,610 368,609 335,610 335,626 384,627"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l216">
+        <Coords points="772,638 775,635 777,635 777,624 768,624 763,622 731,622 724,615 676,615 676,622 673,625 673,629 678,634 687,634 693,638 702,634 706,636 715,636 723,638 766,639"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l217">
+        <Coords points="220,619 220,635 318,635 318,619"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l218">
+        <Coords points="120,624 120,635 168,635 168,624"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l219">
+        <Coords points="39,632 39,650 100,650 100,632"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l220">
+        <Coords points="217,635 193,632 170,632 168,634 168,647 173,649 217,649"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l221">
+        <Coords points="848,637 842,636 816,634 785,634 782,636 775,636 772,639 766,640 740,639 740,651 742,652 750,651 762,653 764,655 776,655 788,650 793,650 804,651 813,654 848,655"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l222">
+        <Coords points="93,637 93,651 150,651 150,637"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l223">
+        <Coords points="421,676 454,676 486,674 488,673 488,657 436,659 428,657 406,656 402,658 401,663 372,664 358,661 352,656 347,655 302,655 294,651 270,650 269,642 267,640 252,640 250,637 223,637 222,645 219,649 219,655 221,656 237,658 247,664 267,666 272,673 313,674 332,672 367,680 411,680"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l224">
+        <Coords points="704,639 704,653 723,653 723,639"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l225">
+        <Coords points="643,647 643,664 680,664 680,647"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l226">
+        <Coords points="172,659 173,655 173,650 170,648 155,648 151,651 122,652 122,660 168,660"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l227">
+        <Coords points="232,659 216,656 213,654 213,651 174,651 172,660 158,663 158,674 232,674"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l228">
+        <Coords points="699,653 699,666 755,666 755,653"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l229">
+        <Coords points="66,659 50,659 50,662 53,665 66,665"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l230">
+        <Coords points="819,658 819,670 840,670 840,658"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l231">
+        <Coords points="590,665 590,677 635,677 635,665"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l232">
+        <Coords points="824,674 786,671 775,666 700,667 700,678 745,678 752,681 762,681 767,684 781,687 824,687"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l233">
+        <Coords points="105,684 105,671 99,669 75,670 67,666 56,667 50,663 8,664 8,682 60,680 65,685 80,686"/>
+        <TextEquiv index="1">
+          <Unicode>l</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l234">
+        <Coords points="664,668 664,680 693,680 693,668"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l235">
+        <Coords points="571,686 591,685 594,683 594,677 591,675 587,675 583,672 568,671 563,669 512,669 501,670 499,672 482,675 482,686 488,687 527,687 535,685 546,685 568,688"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l236">
+        <Coords points="460,699 466,698 483,698 484,687 471,682 454,682 451,677 421,677 411,681 403,682 367,681 360,679 344,680 345,696 364,696 394,699 412,699 419,697 420,700 424,702 457,702"/>
+        <TextEquiv index="1">
+          <Unicode>e.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l237">
+        <Coords points="848,688 781,688 766,685 762,682 752,682 749,680 701,680 692,685 676,685 659,682 644,682 638,684 596,683 588,687 571,687 568,689 568,695 574,698 591,698 593,700 603,700 606,702 615,703 646,703 664,700 680,702 720,702 724,699 725,695 745,693 746,698 749,699 772,700 777,703 848,705"/>
+        <TextEquiv index="1">
+          <Unicode>A?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l238">
+        <Coords points="263,678 263,692 328,692 328,678"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l239">
+        <Coords points="81,707 87,701 91,700 95,696 113,694 142,694 153,696 180,695 184,697 218,697 225,700 242,700 246,698 246,683 244,681 230,680 113,680 106,685 81,686 39,693 39,709 71,709"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l240">
+        <Coords points="606,703 603,701 593,701 591,699 574,699 566,695 554,695 546,690 508,690 504,693 492,694 483,699 462,700 462,711 509,711 520,709 527,709 529,711 605,711"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l241">
+        <Coords points="251,717 355,716 355,700 291,698 225,701 192,700 180,696 153,697 142,695 113,695 95,697 95,710 97,711 127,712 163,710 171,711 173,714 181,716 204,715 208,718 239,719"/>
+        <TextEquiv index="1">
+          <Unicode>î</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l242">
+        <Coords points="750,704 750,716 768,716 768,704"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l243">
+        <Coords points="401,704 401,716 426,716 426,704"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l244">
+        <Coords points="785,726 821,725 836,722 837,708 784,708 777,710 770,716 745,716 729,720 729,728 782,728"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l245">
+        <Coords points="709,705 709,720 737,720 737,705"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l246">
+        <Coords points="461,711 440,711 440,721 460,721"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l247">
+        <Coords points="165,724 140,724 139,714 137,712 108,713 96,711 56,711 57,735 104,733 112,733 113,735 165,735"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l248">
+        <Coords points="37,716 37,722 53,722 53,716"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l249">
+        <Coords points="466,739 470,733 496,732 505,730 550,731 574,729 600,731 605,730 605,714 567,713 533,714 521,712 507,712 489,714 465,714 459,723 451,725 441,725 433,716 388,717 382,720 382,732 386,734 404,734 406,736 416,735 424,737 439,737 442,740 463,740"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l250">
+        <Coords points="208,754 209,750 253,751 261,748 297,747 301,744 302,737 317,737 324,736 327,734 340,734 349,732 365,732 365,722 271,722 267,726 250,725 233,730 187,730 186,756 204,757"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l251">
+        <Coords points="671,728 671,755 731,755 731,728"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l252">
+        <Coords points="648,747 648,733 592,734 592,745 594,747 615,748"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l253">
+        <Coords points="419,751 436,750 436,738 420,737 407,738 404,735 386,735 382,733 349,733 340,735 327,735 324,737 324,745 329,748 373,748 376,752 383,753 387,756 400,756"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l254">
+        <Coords points="571,748 571,736 544,736 544,750 564,750"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l255">
+        <Coords points="28,747 28,755 48,755 48,747"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l256">
+        <Coords points="630,750 630,764 664,764 664,750"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l257">
+        <Coords points="324,763 340,763 356,766 370,766 370,751 358,749 329,749 324,746 308,746 297,750 265,750 252,753 253,769 272,768 295,771 320,771"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l258">
+        <Coords points="618,749 573,748 569,750 559,751 559,760 619,760"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l259">
+        <Coords points="501,760 501,754 478,754 478,758 483,762 497,762"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l260">
+        <Coords points="770,752 770,766 805,766 805,752"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l261">
+        <Coords points="170,771 145,770 136,769 128,766 115,765 114,755 96,755 88,751 72,750 65,750 62,753 56,753 54,755 55,776 66,775 68,777 114,780 121,784 170,784"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l262">
+        <Coords points="194,769 196,767 195,758 184,757 173,753 148,752 148,769 189,770"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l263">
+        <Coords points="584,764 565,764 556,760 504,760 497,763 483,763 476,758 427,758 418,765 419,772 424,776 583,777"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l264">
+        <Coords points="248,783 252,779 252,769 244,761 202,761 200,767 194,770 186,771 186,784 241,785"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l265">
+        <Coords points="585,766 585,777 653,777 653,766"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l266">
+        <Coords points="411,793 445,794 447,793 447,781 440,779 425,778 418,772 416,766 356,767 340,764 330,764 330,779 344,779 348,782 353,783 354,797 404,797"/>
+        <TextEquiv index="1">
+          <Unicode>i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l267">
+        <Coords points="675,768 675,792 769,792 769,768"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l268">
+        <Coords points="39,776 39,787 51,787 51,776"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l269">
+        <Coords points="615,803 615,788 610,788 604,785 581,785 579,777 554,778 550,782 539,783 509,783 498,780 472,778 458,778 456,780 456,789 458,791 488,794 495,800 558,800 578,802 600,801 605,802 608,805 611,805"/>
+        <TextEquiv index="1">
+          <Unicode>,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l270">
+        <Coords points="117,783 114,781 68,778 65,781 66,790 116,790"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l271">
+        <Coords points="638,780 638,790 667,790 667,780"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l272">
+        <Coords points="307,781 307,801 354,801 354,781"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l273">
+        <Coords points="325,807 325,800 323,798 311,797 303,792 263,791 256,789 240,789 226,787 185,787 183,789 175,789 175,806 179,807 248,806 252,807 257,811 318,811"/>
+        <TextEquiv index="1">
+          <Unicode>t.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l274">
+        <Coords points="485,795 481,794 411,794 409,796 409,808 413,809 458,810 475,808 476,810 485,810"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l275">
+        <Coords points="663,794 663,808 688,808 688,794"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l276">
+        <Coords points="333,831 334,825 355,823 361,816 365,815 371,815 374,818 389,822 428,821 432,820 432,810 406,809 400,806 392,805 388,799 354,798 350,802 329,806 316,814 308,815 308,834 327,834"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l277">
+        <Coords points="716,800 716,814 756,814 756,800"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l278">
+        <Coords points="145,817 161,815 163,813 163,804 161,802 143,802 132,805 110,805 98,799 73,799 61,801 61,814 64,815 68,815 71,817 91,817 96,819 104,819 109,822 116,822 118,824 139,824"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l279">
+        <Coords points="595,822 597,820 598,814 607,812 607,804 574,803 557,806 513,805 499,813 499,823 545,823 547,821 566,821 568,823 590,823"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l280">
+        <Coords points="717,830 717,815 710,813 701,813 691,808 668,808 660,804 631,804 631,818 652,818 659,825 677,829 690,831 715,831"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l281">
+        <Coords points="853,824 816,824 815,808 813,806 789,806 787,808 787,822 783,824 764,824 762,822 762,816 760,814 724,815 724,832 732,832 735,830 749,830 751,832 753,839 853,839"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l282">
+        <Coords points="63,815 61,815 58,812 27,813 27,833 63,833"/>
+        <TextEquiv index="1">
+          <Unicode>It</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l283">
+        <Coords points="164,831 204,832 236,830 239,828 239,819 237,817 221,817 209,815 162,815 159,817 145,818 140,824 140,833 163,833"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l284">
+        <Coords points="116,823 109,823 104,820 96,820 91,818 71,818 72,832 116,832"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l285">
+        <Coords points="509,846 521,846 532,842 546,841 552,836 552,828 549,828 545,824 500,827 463,826 460,823 447,823 441,821 399,822 400,833 409,837 445,839 448,841 458,843 459,848 461,850 503,850"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l286">
+        <Coords points="681,830 671,829 657,825 648,825 636,821 615,821 609,826 599,826 579,831 558,832 552,837 552,846 560,848 596,848 600,845 610,844 619,841 622,838 639,842 654,843 667,848 681,848"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l287">
+        <Coords points="328,852 349,849 356,846 381,846 397,848 397,831 395,829 340,829 327,835 291,834 288,835 288,838 286,840 270,840 269,831 267,829 244,829 230,832 205,832 205,851 210,853 251,852 256,856 326,857"/>
+        <TextEquiv index="1">
+          <Unicode>A</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l288">
+        <Coords points="119,848 167,851 167,834 163,834 156,837 145,837 139,834 117,832 112,834 85,834 81,836 68,837 36,837 36,857 51,856 53,854 60,853 90,853 99,854 103,857 107,857"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l289">
+        <Coords points="698,865 716,866 724,861 735,861 742,857 762,857 762,840 752,840 746,842 727,841 724,847 695,847 693,849 688,850 667,849 647,843 617,842 611,844 610,850 594,850 594,865 597,867 623,867 627,859 641,860 659,866 690,867"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l290">
+        <Coords points="488,871 497,871 506,868 524,867 529,865 532,861 574,861 574,849 560,849 552,847 548,844 532,843 519,847 514,851 499,852 486,857 467,857 464,851 449,851 447,841 414,841 414,846 412,848 405,849 359,847 359,862 384,862 387,864 397,865 415,864 419,870 448,871 456,873 480,873"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l291">
+        <Coords points="112,850 112,872 162,872 162,850"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l292">
+        <Coords points="96,855 90,854 60,854 53,855 51,857 52,864 96,864"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l293">
+        <Coords points="287,888 287,875 284,875 282,873 278,869 277,865 229,864 227,856 191,856 191,872 207,872 210,874 210,878 213,881 228,883 265,883 266,886 269,888 280,889"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l294">
+        <Coords points="779,854 779,864 801,864 801,854"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l295">
+        <Coords points="294,859 294,875 329,875 329,859"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l296">
+        <Coords points="772,859 740,859 735,862 724,862 724,868 773,868"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l297">
+        <Coords points="551,864 551,872 581,872 581,864"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l298">
+        <Coords points="348,866 348,879 378,879 378,866"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l299">
+        <Coords points="642,866 642,879 656,879 656,866"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l300">
+        <Coords points="1,866 1,883 89,883 89,866"/>
+        <TextEquiv index="1">
+          <Unicode>H</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l301">
+        <Coords points="841,888 846,887 846,868 825,869 815,873 801,875 788,880 728,882 719,885 719,898 842,898"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l302">
+        <Coords points="548,893 582,893 582,876 557,875 551,871 514,871 510,875 480,876 478,878 477,886 469,887 462,891 444,891 444,904 546,904"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l303">
+        <Coords points="708,893 712,886 720,884 720,874 695,873 686,875 665,875 660,876 652,881 622,881 620,883 620,894 671,895"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l304">
+        <Coords points="326,900 333,897 347,895 368,896 368,880 351,879 347,877 318,876 316,878 315,883 306,885 295,885 291,888 281,889 277,891 277,902 307,902"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l305">
+        <Coords points="436,892 439,892 441,890 465,889 468,887 468,880 424,880 424,882 420,884 383,884 383,896 433,896"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l306">
+        <Coords points="25,883 25,897 73,897 73,883"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l307">
+        <Coords points="190,884 190,906 273,906 273,884"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l308">
+        <Coords points="117,892 117,912 181,912 181,892"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l309">
+        <Coords points="592,896 592,904 631,904 631,896"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l310">
+        <Coords points="39,898 39,917 92,917 92,898"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l311">
+        <Coords points="631,927 635,921 645,919 667,919 670,916 679,915 683,913 727,915 727,900 713,900 707,895 688,895 670,900 651,900 637,902 630,905 624,910 607,911 591,914 550,914 550,931 616,931"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l312">
+        <Coords points="453,923 451,921 457,918 462,913 471,912 472,904 424,907 420,901 390,901 390,916 406,916 407,926 453,926"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l313">
+        <Coords points="292,903 292,923 352,923 352,903"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l314">
+        <Coords points="193,921 206,920 229,921 233,925 256,924 256,906 204,906 197,910 187,910 180,912 143,913 141,911 136,910 122,910 122,918 124,920 134,920 143,926 187,926"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l315">
+        <Coords points="780,907 780,923 827,923 827,907"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l316">
+        <Coords points="527,912 522,911 474,911 459,916 459,924 464,926 527,927"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l317">
+        <Coords points="671,917 671,932 747,932 747,917"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l318">
+        <Coords points="385,930 404,929 404,918 352,918 350,920 343,922 328,922 325,924 299,924 299,935 368,935"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l319">
+        <Coords points="127,931 127,921 88,920 88,935 96,935"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l320">
+        <Coords points="72,919 39,919 39,931 41,932 72,932"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l321">
+        <Coords points="201,923 201,931 232,931 232,923"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l322">
+        <Coords points="757,923 757,940 807,940 807,923"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l323">
+        <Coords points="243,926 243,939 278,939 278,926"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l324">
+        <Coords points="164,941 177,940 180,937 180,927 149,927 146,930 117,933 110,936 110,947 160,947"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l325">
+        <Coords points="650,933 650,944 690,944 690,933"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l326">
+        <Coords points="256,967 260,964 270,964 277,960 287,960 292,956 340,957 355,961 380,962 386,959 386,950 382,947 405,945 405,936 367,936 365,938 345,938 331,940 280,939 274,942 260,943 257,947 249,947 243,950 221,950 214,952 199,952 195,950 171,950 171,965 183,965 192,967 238,967"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l327">
+        <Coords points="792,960 797,955 818,949 819,932 807,932 805,938 799,940 725,939 708,945 649,945 641,947 620,948 618,950 610,952 593,953 593,961 718,961 728,957 742,956 756,956 764,961 785,961"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l328">
+        <Coords points="469,956 502,956 505,950 549,952 549,935 527,934 510,931 493,931 491,935 458,934 456,936 455,943 415,944 412,946 407,946 408,961 455,962"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l329">
+        <Coords points="551,932 551,952 619,952 619,932"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l330">
+        <Coords points="97,939 83,939 71,933 48,933 48,950 97,951"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l331">
+        <Coords points="248,943 240,936 202,936 202,945 248,945"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l332">
+        <Coords points="852,947 822,947 816,951 804,954 804,966 838,970 852,970"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l333">
+        <Coords points="70,984 78,981 85,981 97,985 124,985 136,980 140,980 141,964 119,969 108,969 107,966 104,964 84,958 64,957 58,956 57,954 33,954 33,965 40,965 43,971 54,973 53,976 33,976 33,989 67,989"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l334">
+        <Coords points="103,951 103,963 118,963 118,951"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l335">
+        <Coords points="516,978 516,967 512,964 488,960 464,960 464,972 470,973 478,978 514,979"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l336">
+        <Coords points="338,964 338,977 424,977 424,964"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l337">
+        <Coords points="848,971 826,972 822,969 807,968 803,966 751,966 744,963 731,962 698,962 699,977 715,982 758,987 775,987 790,984 798,984 805,985 810,990 817,993 848,994"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l338">
+        <Coords points="257,966 257,974 272,974 272,966"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l339">
+        <Coords points="446,997 468,998 494,996 543,996 549,990 571,988 581,983 606,980 607,965 558,965 556,967 556,973 553,975 525,974 522,979 515,979 509,981 483,979 437,980 427,984 404,984 404,999 443,999"/>
+        <TextEquiv index="1">
+          <Unicode>v</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l340">
+        <Coords points="164,969 164,987 200,987 200,969"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l341">
+        <Coords points="306,990 310,987 321,987 321,973 287,973 286,977 263,975 223,976 223,991 300,991"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l342">
+        <Coords points="588,997 614,997 630,994 642,994 651,997 657,997 660,994 695,993 697,991 706,991 710,989 711,982 701,978 664,979 662,975 626,975 606,981 581,984 571,989 554,990 548,992 548,999 585,999"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l343">
+        <Coords points="337,980 337,993 384,993 384,980"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l344">
+        <Coords points="131,984 131,996 181,996 181,984"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l345">
+        <Coords points="21,992 21,1002 61,1002 61,992"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l346">
+        <Coords points="727,989 711,989 706,992 697,992 695,994 680,994 680,1003 727,1003"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l347">
+        <Coords points="775,1001 775,990 746,990 746,1003 767,1003"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l348">
+        <Coords points="276,992 276,1005 317,1005 317,992"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l349">
+        <Coords points="417,1020 443,1019 445,1014 449,1010 459,1010 464,1008 464,999 446,998 437,1002 392,1003 389,1000 385,999 381,993 352,993 352,1008 357,1011 366,1011 367,1012 365,1014 365,1018 370,1022 413,1022"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l350">
+        <Coords points="759,1022 769,1020 804,1020 809,1019 812,1016 813,1010 848,1011 848,996 799,996 794,1002 772,1002 767,1004 749,1005 736,1004 729,1006 663,1006 663,1023 713,1024"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l351">
+        <Coords points="130,1014 161,1014 164,1011 203,1011 205,1008 206,999 194,994 181,994 178,996 169,997 135,998 120,1002 104,1002 100,1000 78,1000 65,1001 62,1003 55,1004 36,1003 37,1017 98,1018"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l352">
+        <Coords points="206,1002 206,1016 243,1016 243,1002"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l353">
+        <Coords points="510,1023 514,1021 516,1017 534,1018 537,1020 578,1019 594,1021 614,1021 615,1004 585,1002 549,1003 536,1000 503,1000 499,1001 494,1006 472,1006 466,1007 459,1011 452,1011 452,1024 500,1025"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l354">
+        <Coords points="299,1028 300,1022 332,1022 351,1020 351,1009 345,1008 340,1005 319,1005 311,1007 279,1007 268,1011 250,1011 237,1018 210,1017 203,1014 130,1015 115,1017 115,1031 126,1032 291,1032"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l355">
+        <Coords points="34,1022 34,1032 59,1032 59,1022"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l356">
+        <Coords points="476,1067 486,1067 501,1063 523,1063 528,1059 529,1056 539,1057 539,1042 534,1038 530,1038 523,1041 511,1041 507,1047 487,1046 484,1051 472,1052 467,1054 455,1054 446,1053 443,1051 432,1051 427,1047 423,1046 381,1047 375,1041 357,1039 363,1036 399,1037 404,1034 404,1027 401,1025 387,1026 384,1023 370,1023 367,1021 312,1023 307,1028 301,1028 297,1031 287,1034 247,1034 244,1039 215,1039 200,1037 185,1037 182,1040 106,1039 100,1037 86,1037 82,1039 21,1038 21,1063 53,1059 84,1058 91,1056 181,1060 184,1057 197,1057 203,1054 295,1054 301,1052 302,1046 304,1045 326,1049 327,1055 331,1058 351,1058 352,1066 355,1069 380,1069 384,1068 389,1064 413,1062 430,1063 444,1068 472,1069"/>
+        <TextEquiv index="1">
+          <Unicode>I s.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l357">
+        <Coords points="511,1040 523,1040 532,1036 532,1023 511,1023 500,1026 456,1026 447,1023 421,1023 410,1025 410,1041 449,1038 468,1040 472,1042 508,1043"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l358">
+        <Coords points="625,1023 625,1033 648,1033 648,1023"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l359">
+        <Coords points="752,1029 752,1045 793,1045 793,1029"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l360">
+        <Coords points="536,1031 536,1041 571,1041 571,1031"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l361">
+        <Coords points="624,1054 631,1051 631,1038 611,1038 605,1041 590,1041 583,1045 583,1055 614,1055"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l362">
+        <Coords points="462,1041 435,1040 435,1050 443,1050 446,1052 462,1052"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l363">
+        <Coords points="745,1086 754,1086 761,1082 765,1082 770,1077 842,1076 842,1051 797,1051 795,1053 795,1059 788,1060 786,1058 765,1058 759,1052 735,1052 734,1041 695,1041 695,1058 699,1058 702,1061 712,1062 721,1066 729,1067 731,1069 729,1075 726,1078 712,1080 712,1088 717,1090 741,1090"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l364">
+        <Coords points="625,1050 625,1064 651,1064 651,1050"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l365">
+        <Coords points="265,1056 199,1056 197,1058 190,1058 190,1067 265,1067"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l366">
+        <Coords points="539,1087 568,1087 575,1083 579,1083 583,1087 587,1088 603,1088 622,1083 649,1082 655,1080 660,1076 670,1079 714,1079 721,1078 721,1067 707,1062 658,1061 655,1061 644,1067 614,1067 598,1061 586,1061 579,1065 562,1067 554,1071 547,1072 524,1072 520,1070 517,1065 512,1064 501,1064 486,1068 475,1069 475,1081 509,1083 512,1084 516,1089 534,1089"/>
+        <TextEquiv index="1">
+          <Unicode>..</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l367">
+        <Coords points="37,1066 37,1079 61,1079 61,1066"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l368">
+        <Coords points="389,1068 389,1086 458,1086 458,1068"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l369">
+        <Coords points="152,1085 185,1084 185,1068 142,1067 133,1069 125,1075 112,1076 112,1091 151,1091"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l370">
+        <Coords points="383,1073 336,1068 323,1068 323,1083 338,1086 339,1090 342,1092 383,1093"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l371">
+        <Coords points="288,1089 288,1077 276,1077 268,1074 226,1074 227,1090 286,1090"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l372">
+        <Coords points="831,1079 831,1089 843,1089 843,1079"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l373">
+        <Coords points="31,1079 31,1096 85,1096 85,1079"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l374">
+        <Coords points="817,1083 761,1083 754,1087 744,1088 744,1095 816,1095"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l375">
+        <Coords points="654,1098 653,1085 619,1085 607,1091 607,1099 612,1101 648,1101"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l376">
+        <Coords points="64,1109 142,1111 145,1108 159,1108 170,1106 178,1103 183,1103 183,1086 172,1085 159,1086 157,1092 146,1095 134,1094 109,1095 101,1093 87,1093 83,1095 65,1096 31,1096 31,1113 56,1113"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l377">
+        <Coords points="371,1099 364,1099 363,1096 360,1094 345,1094 339,1091 332,1091 313,1087 292,1087 287,1090 287,1104 304,1104 313,1107 326,1108 344,1108 346,1112 371,1112"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l378">
+        <Coords points="544,1090 544,1106 566,1106 566,1090"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l379">
+        <Coords points="733,1091 717,1091 714,1089 707,1089 703,1094 692,1094 684,1092 664,1092 662,1094 662,1104 668,1107 734,1108"/>
+        <TextEquiv index="1">
+          <Unicode>V.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l380">
+        <Coords points="848,1113 848,1092 830,1091 818,1094 816,1096 800,1097 797,1099 797,1112 799,1114 821,1115"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l381">
+        <Coords points="577,1121 583,1116 589,1115 639,1117 656,1122 670,1124 703,1124 709,1122 759,1123 771,1121 771,1104 747,1106 741,1109 681,1109 668,1108 656,1101 612,1102 603,1097 590,1097 578,1100 571,1105 558,1108 510,1106 510,1122 512,1123 526,1123 530,1126 561,1126"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l382">
+        <Coords points="388,1103 388,1116 451,1116 451,1103"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l383">
+        <Coords points="291,1139 306,1138 310,1134 407,1134 407,1119 391,1119 380,1116 316,1116 304,1110 255,1108 253,1110 253,1117 251,1119 204,1121 203,1116 201,1114 181,1109 160,1108 148,1109 149,1123 161,1126 178,1126 182,1130 184,1130 185,1131 182,1132 180,1136 180,1141 219,1141 225,1139 247,1138 253,1141 284,1141"/>
+        <TextEquiv index="1">
+          <Unicode>. , es</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l384">
+        <Coords points="468,1127 481,1125 481,1111 465,1111 445,1117 426,1118 417,1121 417,1130 466,1130"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l385">
+        <Coords points="88,1111 62,1111 56,1114 47,1115 35,1114 31,1117 32,1128 89,1129"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l386">
+        <Coords points="848,1115 797,1115 795,1117 795,1127 848,1127"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l387">
+        <Coords points="582,1119 582,1127 599,1127 599,1119"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l388">
+        <Coords points="632,1123 632,1140 684,1140 684,1123"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l389">
+        <Coords points="530,1127 526,1124 494,1123 487,1126 468,1128 464,1133 464,1138 530,1138"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l390">
+        <Coords points="697,1125 697,1137 744,1137 744,1125"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l391">
+        <Coords points="172,1142 179,1137 180,1129 178,1127 161,1127 156,1125 126,1125 119,1127 107,1127 107,1144 144,1144"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l392">
+        <Coords points="831,1131 831,1144 874,1144 874,1131"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l393">
+        <Coords points="114,1155 114,1148 112,1146 97,1145 91,1141 80,1141 77,1139 76,1134 41,1134 40,1140 30,1140 30,1157 44,1156 47,1153 58,1152 68,1153 73,1157 112,1157"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l394">
+        <Coords points="554,1134 554,1146 571,1146 571,1134"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l395">
+        <Coords points="812,1148 810,1146 800,1146 797,1144 790,1143 758,1143 755,1139 731,1140 728,1138 700,1137 696,1135 690,1139 685,1140 656,1140 656,1152 662,1154 689,1154 695,1152 703,1152 705,1155 711,1157 724,1158 732,1162 812,1162"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l396">
+        <Coords points="407,1154 465,1157 470,1153 478,1151 504,1151 504,1139 434,1140 426,1138 406,1138 400,1140 340,1141 338,1143 338,1146 335,1147 335,1160 363,1160"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l397">
+        <Coords points="292,1145 292,1159 320,1159 320,1145"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l398">
+        <Coords points="136,1147 136,1167 185,1167 185,1147"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l399">
+        <Coords points="725,1171 725,1160 720,1158 711,1158 699,1155 662,1155 648,1152 605,1149 515,1149 509,1152 478,1152 470,1154 465,1158 465,1165 482,1170 499,1170 504,1165 532,1162 539,1163 543,1166 548,1167 613,1167 637,1173 723,1173"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l400">
+        <Coords points="243,1171 269,1174 304,1174 313,1172 393,1173 406,1171 433,1171 436,1168 445,1166 446,1158 422,1155 407,1155 363,1161 330,1161 324,1158 319,1158 316,1160 299,1160 293,1157 267,1157 263,1155 263,1151 210,1151 210,1176 241,1176"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l401">
+        <Coords points="743,1194 746,1191 762,1189 792,1190 809,1188 835,1188 837,1186 837,1178 839,1177 839,1166 809,1167 782,1172 761,1172 755,1176 743,1178 689,1177 677,1180 652,1180 652,1196 681,1196 684,1199 720,1199"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l402">
+        <Coords points="65,1168 65,1174 88,1174 88,1168"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l403">
+        <Coords points="541,1167 512,1167 512,1175 540,1175"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l404">
+        <Coords points="144,1180 155,1180 159,1178 160,1169 124,1168 124,1181 128,1181 134,1185 137,1185"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l405">
+        <Coords points="538,1194 553,1194 558,1183 580,1180 580,1169 543,1168 541,1177 537,1179 510,1177 502,1175 500,1173 485,1172 469,1167 444,1167 439,1169 439,1177 450,1179 462,1179 466,1183 470,1184 469,1187 465,1187 462,1189 446,1189 443,1193 448,1200 535,1200"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l406">
+        <Coords points="373,1185 375,1184 375,1174 313,1173 290,1176 290,1186 292,1187 343,1187"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l407">
+        <Coords points="37,1174 37,1190 64,1190 64,1174"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l408">
+        <Coords points="446,1188 462,1188 465,1186 465,1182 462,1180 442,1179 434,1175 421,1175 421,1191 443,1191"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l409">
+        <Coords points="629,1191 631,1189 631,1175 608,1175 588,1178 583,1181 559,1184 559,1196 595,1196"/>
+        <TextEquiv index="1">
+          <Unicode>4</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l410">
+        <Coords points="187,1214 209,1214 213,1210 214,1206 222,1206 227,1211 257,1211 259,1209 260,1203 280,1203 285,1199 291,1199 291,1187 246,1185 240,1181 204,1180 199,1176 161,1177 155,1181 144,1181 140,1183 140,1191 156,1193 193,1194 193,1197 177,1198 170,1205 161,1205 154,1207 154,1214 156,1216 183,1218"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l411">
+        <Coords points="79,1184 79,1195 129,1195 129,1184"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l412">
+        <Coords points="382,1184 382,1195 412,1195 412,1184"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l413">
+        <Coords points="158,1205 158,1194 133,1191 127,1194 111,1196 81,1196 71,1191 31,1189 31,1206 36,1207 139,1207"/>
+        <TextEquiv index="1">
+          <Unicode>- :</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l414">
+        <Coords points="753,1191 753,1203 771,1203 771,1191"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l415">
+        <Coords points="445,1207 445,1196 442,1193 413,1193 408,1197 408,1207 442,1208"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l416">
+        <Coords points="541,1228 553,1228 555,1230 558,1230 566,1225 572,1224 599,1224 609,1219 619,1218 627,1218 628,1224 630,1226 679,1225 698,1220 704,1217 711,1217 745,1209 745,1199 691,1201 687,1204 662,1206 652,1209 648,1204 644,1204 641,1201 628,1201 617,1199 552,1199 548,1202 548,1214 499,1214 498,1216 497,1226 501,1228 535,1231"/>
+        <TextEquiv index="1">
+          <Unicode>,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l417">
+        <Coords points="490,1208 481,1208 474,1210 459,1210 456,1208 405,1208 399,1203 395,1202 362,1201 360,1199 340,1199 337,1196 308,1196 304,1199 298,1200 298,1213 311,1213 321,1215 325,1212 350,1213 357,1218 392,1219 415,1223 490,1223"/>
+        <TextEquiv index="1">
+          <Unicode>.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l418">
+        <Coords points="797,1216 807,1215 807,1200 795,1200 793,1202 787,1203 784,1206 765,1207 765,1218 796,1218"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l419">
+        <Coords points="117,1222 122,1218 122,1208 56,1207 56,1220 65,1220 82,1223 111,1223"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l420">
+        <Coords points="851,1210 828,1211 825,1217 812,1218 803,1223 769,1222 765,1220 755,1219 748,1214 724,1214 711,1218 706,1218 706,1229 721,1229 729,1233 743,1234 759,1238 778,1239 786,1244 836,1245 841,1247 851,1247"/>
+        <TextEquiv index="1">
+          <Unicode>,i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l421">
+        <Coords points="140,1236 146,1232 166,1231 166,1218 159,1218 154,1215 126,1216 120,1222 111,1224 82,1224 65,1221 27,1223 27,1239 55,1239 62,1236 67,1239 120,1239"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l422">
+        <Coords points="263,1219 263,1235 305,1235 305,1219"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l423">
+        <Coords points="372,1224 372,1235 411,1235 411,1224"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l424">
+        <Coords points="461,1247 480,1247 493,1242 509,1242 509,1230 470,1229 449,1230 437,1236 416,1238 402,1242 357,1241 344,1238 343,1232 341,1230 315,1231 302,1236 302,1253 328,1252 343,1256 434,1256"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l425">
+        <Coords points="672,1229 672,1243 718,1243 718,1229"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l426">
+        <Coords points="680,1243 663,1240 662,1232 656,1229 592,1229 592,1241 595,1244 603,1244 604,1245 602,1247 590,1247 584,1242 576,1241 540,1241 536,1239 530,1239 530,1252 559,1254 564,1258 619,1258 635,1255 649,1255 660,1258 680,1258"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l427">
+        <Coords points="203,1251 204,1247 228,1246 228,1234 211,1230 193,1230 188,1236 141,1236 117,1240 117,1251 124,1251 135,1255 199,1255"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l428">
+        <Coords points="773,1240 771,1239 731,1238 728,1239 728,1253 773,1253"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l429">
+        <Coords points="15,1240 15,1248 39,1248 39,1240"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l430">
+        <Coords points="232,1273 235,1270 247,1269 253,1265 265,1265 270,1261 279,1262 280,1249 259,1248 258,1244 231,1244 225,1248 218,1248 216,1250 216,1255 214,1257 200,1257 200,1274 225,1274"/>
+        <TextEquiv index="1">
+          <Unicode>0</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l431">
+        <Coords points="124,1252 110,1252 106,1249 100,1248 96,1244 48,1244 48,1259 57,1262 88,1264 124,1264"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l432">
+        <Coords points="490,1245 490,1256 506,1256 506,1245"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l433">
+        <Coords points="841,1263 841,1248 836,1246 802,1246 797,1252 760,1254 760,1267 816,1267"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l434">
+        <Coords points="476,1271 512,1271 518,1269 521,1266 560,1267 563,1264 563,1258 559,1255 536,1254 530,1253 527,1250 516,1250 505,1250 501,1257 488,1257 484,1254 480,1254 474,1251 462,1251 460,1255 457,1257 408,1258 408,1269 411,1273 470,1273"/>
+        <TextEquiv index="1">
+          <Unicode>-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l435">
+        <Coords points="83,1264 63,1264 35,1257 14,1257 14,1270 16,1272 83,1273"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l436">
+        <Coords points="134,1263 134,1275 191,1275 191,1263"/>
+        <TextEquiv index="1">
+          <Unicode>. Aa.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l437">
+        <Coords points="356,1262 341,1261 336,1259 288,1259 284,1262 270,1262 265,1266 255,1266 247,1270 239,1271 239,1275 356,1275"/>
+        <TextEquiv index="1">
+          <Unicode>?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l438">
+        <Coords points="600,1264 600,1281 742,1281 742,1264"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l439">
+        <Coords points="773,1267 773,1283 850,1283 850,1267"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l440">
+        <Coords points="752,1273 752,1282 773,1282 773,1273"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l441">
+        <Coords points="8,1276 8,1291 39,1291 39,1276"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l442">
+        <Coords points="457,1294 457,1307 531,1307 531,1294"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:50</Created>
+    <LastChange>2020-04-14T13:52:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0129.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="375,61 375,83 591,83 591,61"/>
+        <TextEquiv index="1">
+          <Unicode>INDEX.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="22,63 22,89 55,89 55,63"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="47,89 21,89 12,82 1,82 1,119 47,120"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="153,98 153,128 476,128 476,98"/>
+        <TextEquiv index="1">
+          <Unicode>Satyra in argument thea-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="808,95 808,127 876,127 876,95"/>
+        <TextEquiv index="1">
+          <Unicode>ule</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="844,155 850,154 872,153 872,127 835,127 831,130 826,131 784,131 723,127 719,130 711,132 629,131 619,127 189,128 189,153 196,154 359,154 503,156 510,150 516,150 525,155 569,156 583,158 841,158"/>
+        <TextEquiv index="1">
+          <Unicode>tri vitæ humanæ V.C. Abula Amicæ5m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="48,121 1,120 1,155 48,155"/>
+        <TextEquiv index="1">
+          <Unicode>I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="626,160 583,159 545,156 187,156 187,182 194,183 226,183 250,185 343,183 470,185 524,182 561,187 626,187"/>
+        <TextEquiv index="1">
+          <Unicode>TheodoriLvvingeri,Tagus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="852,183 875,181 875,154 844,156 839,161 830,164 747,164 747,188 845,188"/>
+        <TextEquiv index="1">
+          <Unicode>2sm ii</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="830,220 838,214 848,212 885,211 885,182 857,183 852,184 843,190 828,193 766,193 705,191 697,190 687,185 679,189 586,189 548,187 544,185 524,183 470,186 343,184 250,186 187,183 187,213 268,214 283,215 289,218 298,219 344,219 351,214 361,213 519,213 590,217 813,221"/>
+        <TextEquiv index="1">
+          <Unicode>Philoſophi, Medici 776p Tempori parcendum issc; ſiet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="158,217 158,242 233,242 233,217"/>
+        <TextEquiv index="1">
+          <Unicode>Satyra</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="828,248 836,243 854,241 881,241 881,214 843,214 834,217 830,221 813,222 590,218 519,214 404,214 404,242 495,241 511,243 599,246 809,250"/>
+        <TextEquiv index="1">
+          <Unicode>8qSm Tempore vtendum 167p tts</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="846,272 885,271 885,242 854,242 836,244 828,249 809,251 599,247 511,244 495,242 157,243 158,271 530,271 567,275 831,276"/>
+        <TextEquiv index="1">
+          <Unicode>Scelere horribilia in Gal-Terpſichore I7m init</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="583,276 552,275 530,272 183,272 183,300 583,300"/>
+        <TextEquiv index="1">
+          <Unicode>lijs ab Hugenotis perpe-Thalia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="885,300 885,275 836,275 825,280 736,279 736,301 852,301"/>
+        <TextEquiv index="1">
+          <Unicode>ISSm incer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="884,329 884,303 839,303 818,309 693,308 685,306 680,303 637,303 630,305 547,303 399,303 399,329 850,330"/>
+        <TextEquiv index="1">
+          <Unicode>764 m Theatrum hæreticæ cru- dectt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="184,308 184,323 241,323 241,308"/>
+        <TextEquiv index="1">
+          <Unicode>trata</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="1,310 1,344 27,344 27,310"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="836,361 848,359 885,359 885,330 839,331 829,335 814,338 644,336 592,333 512,333 451,330 156,330 156,360 326,360 333,364 367,364 374,359 421,358 488,359 513,361 608,362 643,364 829,364"/>
+        <TextEquiv index="1">
+          <Unicode>Senex qui iuuenis videri delitatis, quod Richar- ncer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="1,344 1,400 34,400 34,344"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="1,400 1,428 28,428 28,400"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="839,392 848,392 856,389 885,389 885,362 836,362 826,366 818,367 724,367 559,362 430,362 430,387 485,388 500,390 574,390 638,394 831,394"/>
+        <TextEquiv index="1">
+          <Unicode>8m dus Verſteganus Anglus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="182,361 182,382 274,382 274,361"/>
+        <TextEquiv index="1">
+          <Unicode>volebat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="836,419 885,418 885,390 856,390 848,393 839,393 813,397 638,395 574,391 499,390 154,390 154,417 497,417 505,419 524,420 587,420 687,424 807,424"/>
+        <TextEquiv index="1">
+          <Unicode>Senex fer iuuenes 976m cum Iconibus euulgauit us</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="652,423 524,421 505,420 497,418 153,418 153,447 356,450 362,447 514,446 571,450 652,450"/>
+        <TextEquiv index="1">
+          <Unicode>Set. Sulpitius Galba 782f Antuerpia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="751,425 751,449 886,449 886,425"/>
+        <TextEquiv index="1">
+          <Unicode>760t54î</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="850,478 885,478 885,449 848,449 844,451 816,454 752,455 714,453 705,451 698,453 637,453 548,449 501,449 501,475 555,479 593,479 655,482 814,482"/>
+        <TextEquiv index="1">
+          <Unicode>Theodora litigioſa4m htus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="153,450 153,478 241,478 241,450"/>
+        <TextEquiv index="1">
+          <Unicode>Sibyllæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="408,453 408,476 468,476 468,453"/>
+        <TextEquiv index="1">
+          <Unicode>832D</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="885,479 850,479 814,483 655,483 593,480 555,480 534,478 500,478 500,504 885,504"/>
+        <TextEquiv index="1">
+          <Unicode>Threnodia in funere Iuſti ube</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="467,476 295,476 291,478 271,479 154,479 154,506 467,506"/>
+        <TextEquiv index="1">
+          <Unicode>Silentium quibuſdam dit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="1,488 1,536 56,536 56,488"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="400,511 400,536 467,536 467,511"/>
+        <TextEquiv index="1">
+          <Unicode>867 p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="181,508 181,530 242,530 242,508"/>
+        <TextEquiv index="1">
+          <Unicode>icile</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="525,509 525,537 588,537 588,509"/>
+        <TextEquiv index="1">
+          <Unicode>ipſi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="740,518 740,537 805,537 805,518"/>
+        <TextEquiv index="1">
+          <Unicode>58m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="497,537 497,560 598,560 598,537"/>
+        <TextEquiv index="1">
+          <Unicode>Tiberius</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="150,536 150,561 461,561 461,536"/>
+        <TextEquiv index="1">
+          <Unicode>de Siluis Iani Douſæ Nor-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="745,541 745,568 807,568 807,541"/>
+        <TextEquiv index="1">
+          <Unicode>7s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="801,572 725,571 717,568 701,567 495,567 495,595 584,595 716,599 801,599"/>
+        <TextEquiv index="1">
+          <Unicode>Titulus Pyramidis, qua</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="397,570 397,595 465,595 465,570"/>
+        <TextEquiv index="1">
+          <Unicode>2o8 p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="180,568 180,589 267,589 267,568"/>
+        <TextEquiv index="1">
+          <Unicode>douicis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="150,596 150,619 465,619 465,596"/>
+        <TextEquiv index="1">
+          <Unicode>Sit modus in rebus85Im</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="801,601 616,597 524,597 524,625 661,627 801,627"/>
+        <TextEquiv index="1">
+          <Unicode>exſtructa eſt ſuper ſolo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l045">
+        <Coords points="149,626 149,656 465,656 465,626"/>
+        <TextEquiv index="1">
+          <Unicode>Scietas prauorum quæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l046">
+        <Coords points="800,630 722,630 704,628 660,627 524,626 524,652 530,653 613,656 800,657"/>
+        <TextEquiv index="1">
+          <Unicode>dirutæ domus5o1p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l047">
+        <Coords points="2,645 2,693 52,693 52,645"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l048">
+        <Coords points="839,659 741,659 705,657 612,656 495,656 495,682 502,683 642,685 839,685"/>
+        <TextEquiv index="1">
+          <Unicode>Tractatus in Anglia noni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l049">
+        <Coords points="172,661 172,683 236,683 236,661"/>
+        <TextEquiv index="1">
+          <Unicode>176p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l050">
+        <Coords points="147,683 147,711 460,711 460,683"/>
+        <TextEquiv index="1">
+          <Unicode>Solidum ſubſole nihil o7s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l051">
+        <Coords points="800,688 522,687 522,711 576,714 800,714"/>
+        <TextEquiv index="1">
+          <Unicode>Euangelij primi 76;m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l052">
+        <Coords points="799,743 799,718 758,716 609,716 575,714 492,714 492,743 596,742 661,744 763,744"/>
+        <TextEquiv index="1">
+          <Unicode>Triſtis ſemper quem deco-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l053">
+        <Coords points="174,721 174,744 227,744 227,721"/>
+        <TextEquiv index="1">
+          <Unicode>m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l054">
+        <Coords points="1,733 1,793 34,793 34,733"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l055">
+        <Coords points="802,744 521,744 521,772 802,772"/>
+        <TextEquiv index="1">
+          <Unicode>quit æs alienumi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l056">
+        <Coords points="145,744 145,766 269,766 269,744"/>
+        <TextEquiv index="1">
+          <Unicode>Somaticus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l057">
+        <Coords points="412,750 412,772 461,772 461,750"/>
+        <TextEquiv index="1">
+          <Unicode>II p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l058">
+        <Coords points="492,773 492,794 602,794 602,773"/>
+        <TextEquiv index="1">
+          <Unicode>Tumulus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l059">
+        <Coords points="145,777 145,794 242,794 242,777"/>
+        <TextEquiv index="1">
+          <Unicode>Somus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l060">
+        <Coords points="406,773 406,799 467,799 467,773"/>
+        <TextEquiv index="1">
+          <Unicode>59o7f</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l061">
+        <Coords points="731,780 731,799 799,799 799,780"/>
+        <TextEquiv index="1">
+          <Unicode>596m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l062">
+        <Coords points="492,801 492,825 795,825 795,801"/>
+        <TextEquiv index="1">
+          <Unicode>Tumulus Franciſci Ro-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l063">
+        <Coords points="143,802 143,831 461,831 461,802"/>
+        <TextEquiv index="1">
+          <Unicode>Sophia in morte Ludouici</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l064">
+        <Coords points="173,832 173,853 236,853 236,832"/>
+        <TextEquiv index="1">
+          <Unicode>Viuis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l065">
+        <Coords points="520,832 520,861 801,861 801,832"/>
+        <TextEquiv index="1">
+          <Unicode>bortelli Profeſſoris 86p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l066">
+        <Coords points="384,837 384,856 460,856 460,837"/>
+        <TextEquiv index="1">
+          <Unicode>9S5</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l067">
+        <Coords points="490,862 490,885 797,885 797,862"/>
+        <TextEquiv index="1">
+          <Unicode>Tumulus Ludouici Hilles-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l068">
+        <Coords points="142,861 142,889 461,889 461,861"/>
+        <TextEquiv index="1">
+          <Unicode>Spicilegia lani MelleriPal-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l069">
+        <Coords points="171,892 171,917 235,917 235,892"/>
+        <TextEquiv index="1">
+          <Unicode>merij</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l070">
+        <Coords points="518,890 518,917 579,917 579,890"/>
+        <TextEquiv index="1">
+          <Unicode>ſemij</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l071">
+        <Coords points="378,899 378,915 458,915 458,899"/>
+        <TextEquiv index="1">
+          <Unicode>S44m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l072">
+        <Coords points="722,896 722,916 797,916 797,896"/>
+        <TextEquiv index="1">
+          <Unicode>546 m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l073">
+        <Coords points="490,920 490,948 845,948 845,920"/>
+        <TextEquiv index="1">
+          <Unicode>Tumulus cordis Luxen-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l074">
+        <Coords points="141,920 141,942 459,942 459,920"/>
+        <TextEquiv index="1">
+          <Unicode>Strena ad lanum Douſam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l075">
+        <Coords points="170,949 170,973 228,973 228,949"/>
+        <TextEquiv index="1">
+          <Unicode>530f</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l076">
+        <Coords points="518,949 518,978 590,978 590,949"/>
+        <TextEquiv index="1">
+          <Unicode>burgi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l077">
+        <Coords points="728,950 728,979 846,979 846,950"/>
+        <TextEquiv index="1">
+          <Unicode>1f 2p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l078">
+        <Coords points="140,978 140,1001 459,1001 459,978"/>
+        <TextEquiv index="1">
+          <Unicode>Strena ad Eliſabetham An-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l079">
+        <Coords points="490,980 490,1007 847,1007 847,980"/>
+        <TextEquiv index="1">
+          <Unicode>Tumulus Ortelij585 m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l080">
+        <Coords points="170,1009 170,1037 457,1037 457,1009"/>
+        <TextEquiv index="1">
+          <Unicode>gliæ Reginam3S80 m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l081">
+        <Coords points="823,1063 842,1061 847,1057 847,1037 491,1037 491,1066 554,1065 610,1067 819,1067"/>
+        <TextEquiv index="1">
+          <Unicode>7Enatio Maximiliani</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l082">
+        <Coords points="140,1037 140,1065 463,1065 463,1037"/>
+        <TextEquiv index="1">
+          <Unicode>Sufſicientia ditat97s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l083">
+        <Coords points="847,1058 842,1062 826,1063 819,1068 810,1069 610,1068 554,1066 501,1067 501,1093 513,1090 520,1090 533,1091 538,1095 847,1095"/>
+        <TextEquiv index="1">
+          <Unicode>VCæs. Auguſti4</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l084">
+        <Coords points="140,1067 140,1098 456,1098 456,1067"/>
+        <TextEquiv index="1">
+          <Unicode>Subia &amp; himilitas 97m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l085">
+        <Coords points="140,1098 140,1125 462,1125 462,1098"/>
+        <TextEquiv index="1">
+          <Unicode>Svertij ſæ errates580ſ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l086">
+        <Coords points="489,1098 489,1123 853,1123 853,1098"/>
+        <TextEquiv index="1">
+          <Unicode>die enere &amp; Momop</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l087">
+        <Coords points="725,1126 725,1148 795,1148 795,1126"/>
+        <TextEquiv index="1">
+          <Unicode>Vcula</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l088">
+        <Coords points="822,1252 822,1281 886,1281 886,1252"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

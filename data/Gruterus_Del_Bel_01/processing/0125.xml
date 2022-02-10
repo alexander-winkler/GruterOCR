@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:50</Created>
+    <LastChange>2020-04-14T13:52:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0125.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="377,48 377,71 592,71 592,48"/>
+        <TextEquiv index="1">
+          <Unicode>IDE.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="1,66 1,127 51,127 51,66"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="857,110 885,110 885,76 836,76 833,80 784,83 779,86 766,87 661,85 644,83 513,84 463,80 353,81 325,79 229,79 196,80 154,78 154,114 845,114"/>
+        <TextEquiv index="1">
+          <Unicode>Margaretæ Auſtriacæ Par- nolam Ducem illuſtriVls</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="803,123 746,123 696,119 637,119 583,117 502,119 496,116 486,115 184,116 184,143 245,142 358,144 362,142 369,142 530,144 803,144"/>
+        <TextEquiv index="1">
+          <Unicode>mæ ac Placentiæ Ducis 45m ad Lud.à Flandria</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="881,111 857,111 833,117 833,143 881,143"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="1,135 1,184 39,184 39,135"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="804,154 607,147 404,147 404,172 484,172 501,174 582,175 624,174 654,175 666,177 681,177 689,179 713,180 804,180"/>
+        <TextEquiv index="1">
+          <Unicode>747 D Dominum de Praët. 454</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="184,143 184,165 260,165 260,143"/>
+        <TextEquiv index="1">
+          <Unicode>obitus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="845,144 845,165 884,165 884,144"/>
+        <TextEquiv index="1">
+          <Unicode>lua</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="845,173 845,194 886,194 886,173"/>
+        <TextEquiv index="1">
+          <Unicode>Mo-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="805,182 713,181 689,180 681,178 666,178 654,176 624,175 582,176 501,175 484,173 360,172 156,172 156,202 268,201 287,202 294,206 469,205 475,202 586,203 637,206 805,206"/>
+        <TextEquiv index="1">
+          <Unicode>Manaſſis Regis ceprecatiom ad lIuſt. Lipium 45</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="846,198 846,223 886,223 886,198"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="184,207 184,229 241,229 241,207"/>
+        <TextEquiv index="1">
+          <Unicode>56s p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="802,210 710,209 612,205 528,205 528,232 802,232"/>
+        <TextEquiv index="1">
+          <Unicode>m ad Henric. Sturmium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="801,240 703,238 599,233 506,236 494,232 477,231 154,231 154,259 801,259"/>
+        <TextEquiv index="1">
+          <Unicode>Manes Ioannis Molani 455fadMatthiam Lobe-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="847,230 847,252 885,252 885,230"/>
+        <TextEquiv index="1">
+          <Unicode>n5oi</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="846,258 846,284 886,284 886,258"/>
+        <TextEquiv index="1">
+          <Unicode>ſ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="184,267 184,288 243,288 243,267"/>
+        <TextEquiv index="1">
+          <Unicode>39p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="528,263 528,290 802,290 802,263"/>
+        <TextEquiv index="1">
+          <Unicode>lium 403m adBon. Vul-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="48,275 1,275 1,312 48,312"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="846,284 846,311 886,311 886,284"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="802,298 746,297 736,295 509,293 492,288 266,288 235,291 155,289 155,318 173,319 243,317 295,317 327,319 355,319 373,317 487,319 802,319"/>
+        <TextEquiv index="1">
+          <Unicode>Manes ſuſti Lipſii176 s canium, cum Callima-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="801,327 764,325 689,325 618,322 509,322 486,319 424,318 373,318 355,320 295,318 173,320 154,319 154,347 801,347"/>
+        <TextEquiv index="1">
+          <Unicode>ManesP. Ouidii Naſonis chum oſchum &amp; Bio-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="847,321 847,344 886,344 886,321"/>
+        <TextEquiv index="1">
+          <Unicode>49</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="37,333 1,333 1,389 37,389"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="848,346 848,369 886,369 886,346"/>
+        <TextEquiv index="1">
+          <Unicode>Hint</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="184,354 184,374 264,374 264,354"/>
+        <TextEquiv index="1">
+          <Unicode>4B4m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="530,353 530,379 814,379 814,353"/>
+        <TextEquiv index="1">
+          <Unicode>nem emitteret493</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="849,374 849,398 886,398 886,374"/>
+        <TextEquiv index="1">
+          <Unicode>or</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="802,386 754,385 734,383 567,381 556,380 552,378 482,377 154,377 154,406 802,406"/>
+        <TextEquiv index="1">
+          <Unicode>Mater Diua Cupidinum Miſcellanea. ad Paulum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="532,410 532,434 804,434 804,410"/>
+        <TextEquiv index="1">
+          <Unicode>Choartum Buzenualli-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="186,412 186,434 259,434 259,412"/>
+        <TextEquiv index="1">
+          <Unicode>436m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="38,418 1,418 1,451 38,451"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="155,435 155,466 470,466 470,435"/>
+        <TextEquiv index="1">
+          <Unicode>Mauritius à Naſſau quum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="837,438 837,460 886,460 886,438"/>
+        <TextEquiv index="1">
+          <Unicode>lne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="802,443 530,441 530,468 585,468 630,470 802,470"/>
+        <TextEquiv index="1">
+          <Unicode>um 469p in famoſum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="838,464 838,490 886,490 886,464"/>
+        <TextEquiv index="1">
+          <Unicode>olan</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="172,467 172,489 469,489 469,467"/>
+        <TextEquiv index="1">
+          <Unicode>Marchio Veriæ renun-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="805,500 805,472 703,472 529,469 529,497 608,497 698,499 722,501 798,501"/>
+        <TextEquiv index="1">
+          <Unicode>rabulam, à uo indignis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="50,482 44,481 42,477 35,472 13,472 4,475 1,478 1,525 50,525"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="854,491 854,519 886,519 886,491"/>
+        <TextEquiv index="1">
+          <Unicode>s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="187,497 187,518 280,518 280,497"/>
+        <TextEquiv index="1">
+          <Unicode>tiaretur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="409,501 409,524 470,524 470,501"/>
+        <TextEquiv index="1">
+          <Unicode>6p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="802,501 722,502 660,499 529,499 529,521 802,521"/>
+        <TextEquiv index="1">
+          <Unicode>modis Baudius circum-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l045">
+        <Coords points="157,525 157,555 473,555 473,525"/>
+        <TextEquiv index="1">
+          <Unicode>Maximiliani Cæs Auguſti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l046">
+        <Coords points="840,526 840,547 886,547 886,526"/>
+        <TextEquiv index="1">
+          <Unicode>lonat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l047">
+        <Coords points="530,529 530,553 802,553 802,529"/>
+        <TextEquiv index="1">
+          <Unicode>uentus 4s6Fad Martem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l048">
+        <Coords points="840,556 840,577 886,577 886,556"/>
+        <TextEquiv index="1">
+          <Unicode>lois</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l049">
+        <Coords points="530,558 530,588 804,588 804,558"/>
+        <TextEquiv index="1">
+          <Unicode>Gallicum 481 p in Du-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l050">
+        <Coords points="441,555 441,581 475,581 475,555"/>
+        <TextEquiv index="1">
+          <Unicode>4t</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l051">
+        <Coords points="187,556 187,577 275,577 275,556"/>
+        <TextEquiv index="1">
+          <Unicode>venatio</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l052">
+        <Coords points="156,584 156,613 469,613 469,584"/>
+        <TextEquiv index="1">
+          <Unicode>Maximiliani I. Cæs Aug.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l053">
+        <Coords points="836,578 836,607 883,607 883,578"/>
+        <TextEquiv index="1">
+          <Unicode>y</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l054">
+        <Coords points="530,588 530,611 802,611 802,588"/>
+        <TextEquiv index="1">
+          <Unicode>cem Bironium 41m ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l055">
+        <Coords points="25,603 25,633 94,633 94,603"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l056">
+        <Coords points="842,611 842,636 885,636 885,611"/>
+        <TextEquiv index="1">
+          <Unicode>luli</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l057">
+        <Coords points="186,615 186,643 324,643 324,615"/>
+        <TextEquiv index="1">
+          <Unicode>epitaphium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l058">
+        <Coords points="436,621 436,642 469,642 469,621"/>
+        <TextEquiv index="1">
+          <Unicode>ID</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l059">
+        <Coords points="530,616 530,638 804,638 804,616"/>
+        <TextEquiv index="1">
+          <Unicode>Henricum Borbonium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l060">
+        <Coords points="3,638 3,680 52,680 52,638"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l061">
+        <Coords points="155,644 155,666 470,666 470,644"/>
+        <TextEquiv index="1">
+          <Unicode>ad Maximilianum de Hor-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l062">
+        <Coords points="530,645 530,673 803,673 803,645"/>
+        <TextEquiv index="1">
+          <Unicode>Ducem Monpenſerium</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l063">
+        <Coords points="844,669 844,694 886,694 886,669"/>
+        <TextEquiv index="1">
+          <Unicode>lie</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l064">
+        <Coords points="528,675 528,703 804,703 804,675"/>
+        <TextEquiv index="1">
+          <Unicode>49p ad Chriſtophorum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l065">
+        <Coords points="184,674 184,703 471,703 471,674"/>
+        <TextEquiv index="1">
+          <Unicode>nes Baronem de Loque-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l066">
+        <Coords points="185,709 185,724 223,724 223,709"/>
+        <TextEquiv index="1">
+          <Unicode>ren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l067">
+        <Coords points="392,710 392,729 469,729 469,710"/>
+        <TextEquiv index="1">
+          <Unicode>442ID</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l068">
+        <Coords points="529,704 529,733 803,733 803,704"/>
+        <TextEquiv index="1">
+          <Unicode>Harlæum A. F. 42m in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l069">
+        <Coords points="845,729 845,751 886,751 886,729"/>
+        <TextEquiv index="1">
+          <Unicode>el</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l070">
+        <Coords points="155,732 155,761 469,761 469,732"/>
+        <TextEquiv index="1">
+          <Unicode>Meditationes piæ87m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l071">
+        <Coords points="530,733 530,757 802,757 802,733"/>
+        <TextEquiv index="1">
+          <Unicode>Ioannem Caſtellum, a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l072">
+        <Coords points="846,762 846,782 886,782 886,762"/>
+        <TextEquiv index="1">
+          <Unicode>lun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l073">
+        <Coords points="153,762 153,790 300,790 300,762"/>
+        <TextEquiv index="1">
+          <Unicode>Melpomene</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l074">
+        <Coords points="472,791 472,767 402,767 402,792 470,792"/>
+        <TextEquiv index="1">
+          <Unicode>I57I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l075">
+        <Coords points="803,790 803,762 529,763 529,791 735,791"/>
+        <TextEquiv index="1">
+          <Unicode>quo Re:t Henric.rv vul-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l076">
+        <Coords points="154,790 154,814 308,814 308,790"/>
+        <TextEquiv index="1">
+          <Unicode>Mendici duo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l077">
+        <Coords points="474,791 467,795 436,795 436,811 474,811"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l078">
+        <Coords points="802,791 530,793 530,819 802,819"/>
+        <TextEquiv index="1">
+          <Unicode>neratus eſt5oom ad la-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l079">
+        <Coords points="828,849 844,845 885,845 885,815 829,816 828,825 823,825 820,819 703,822 605,821 530,822 530,850 808,850"/>
+        <TextEquiv index="1">
+          <Unicode>num Gruterum albo e- Muſ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l080">
+        <Coords points="133,849 164,848 462,850 466,849 466,822 397,820 121,820 114,825 103,825 103,855 125,855"/>
+        <TextEquiv index="1">
+          <Unicode>Miſcellanea. ad Petrum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l081">
+        <Coords points="1,817 1,898 28,898 28,817"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l082">
+        <Coords points="882,850 530,851 530,878 780,878 817,876 882,878"/>
+        <TextEquiv index="1">
+          <Unicode>iuſdem inſcriptum 0a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l083">
+        <Coords points="469,850 369,851 184,849 184,878 187,876 219,876 241,878 469,878"/>
+        <TextEquiv index="1">
+          <Unicode>Rosbecium 450 p ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l084">
+        <Coords points="184,879 184,901 488,901 488,879"/>
+        <TextEquiv index="1">
+          <Unicode>D. Ioan. Richardotum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l085">
+        <Coords points="803,907 803,878 709,881 564,880 531,881 531,909 709,909"/>
+        <TextEquiv index="1">
+          <Unicode>m in Mæuium 5o4 f ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l086">
+        <Coords points="783,965 825,965 837,963 843,959 885,959 885,913 859,913 856,911 853,905 815,908 756,908 709,910 531,910 531,968 712,968"/>
+        <TextEquiv index="1">
+          <Unicode>M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l087">
+        <Coords points="287,936 343,936 375,938 469,938 469,909 209,908 182,909 182,938 282,939"/>
+        <TextEquiv index="1">
+          <Unicode>Archiducum Legatum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l088">
+        <Coords points="469,939 285,938 282,940 184,939 184,965 469,966"/>
+        <TextEquiv index="1">
+          <Unicode>4sofadChriſtophorum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l089">
+        <Coords points="769,994 815,995 831,994 836,992 852,990 885,990 885,964 834,964 825,966 783,966 712,969 531,969 531,996 747,996"/>
+        <TextEquiv index="1">
+          <Unicode>tum Delphenſem 5o6mu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l090">
+        <Coords points="185,967 185,989 470,989 470,967"/>
+        <TextEquiv index="1">
+          <Unicode>Harlæ um Bellimontii</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l091">
+        <Coords points="885,1019 885,992 842,992 831,995 815,996 769,995 722,998 665,999 529,998 529,1020 852,1020"/>
+        <TextEquiv index="1">
+          <Unicode>ad Lectorem 5oq f inNat</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l092">
+        <Coords points="185,997 185,1021 472,1021 472,997"/>
+        <TextEquiv index="1">
+          <Unicode>Comitem 463m ad Ia-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l093">
+        <Coords points="530,1021 530,1056 885,1056 885,1021"/>
+        <TextEquiv index="1">
+          <Unicode>tres Iuris peruerſoresP</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l094">
+        <Coords points="186,1026 186,1056 470,1056 470,1026"/>
+        <TextEquiv index="1">
+          <Unicode>oobum Auguſtum Chu-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l095">
+        <Coords points="852,1078 885,1078 885,1056 648,1056 530,1058 530,1084 812,1084"/>
+        <TextEquiv index="1">
+          <Unicode>48pad Paſchali toc-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l096">
+        <Coords points="185,1056 185,1080 470,1080 470,1056"/>
+        <TextEquiv index="1">
+          <Unicode>anum 42 ad Domi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l097">
+        <Coords points="885,1081 837,1081 832,1083 812,1085 779,1085 758,1087 530,1086 530,1111 831,1111 843,1109 885,1111"/>
+        <TextEquiv index="1">
+          <Unicode>cartum Muſicum 4p</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l098">
+        <Coords points="185,1084 185,1115 469,1115 469,1084"/>
+        <TextEquiv index="1">
+          <Unicode>num Ambroſium Spi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l099">
+        <Coords points="777,1111 777,1147 855,1147 855,1111"/>
+        <TextEquiv index="1">
+          <Unicode>ad</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

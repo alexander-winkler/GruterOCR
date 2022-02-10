@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:50</Created>
+    <LastChange>2020-04-14T13:52:50</LastChange>
+  </Metadata>
+  <Page imageFilename="0700.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="250,73 250,98 551,98 551,73"/>
+        <TextEquiv index="1">
+          <Unicode>BLIENBVRGII.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="691,74 691,95 730,95 730,74"/>
+        <TextEquiv index="1">
+          <Unicode>645</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="203,146 406,145 568,142 568,108 513,110 381,110 318,112 187,113 67,111 59,108 1,108 1,139 45,139 50,140 58,146 67,148 153,148"/>
+        <TextEquiv index="1">
+          <Unicode>Quæ non lachrymulis facta litura tuis?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="548,172 615,173 615,145 407,145 203,147 122,149 117,152 95,152 61,148 55,145 40,145 40,174 467,174"/>
+        <TextEquiv index="1">
+          <Unicode>Nunc animos ſenſuſq; meos deperditus opto</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="454,202 572,201 572,173 366,176 234,176 136,179 74,179 34,177 28,175 22,169 3,169 3,200 48,200 53,204 425,204"/>
+        <TextEquiv index="1">
+          <Unicode>Stare ſuper vaſto truncus iners ſcopulo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="667,203 454,203 425,205 295,205 76,208 76,233 472,233 524,231 615,231 619,233 667,233"/>
+        <TextEquiv index="1">
+          <Unicode>Nunc vellem pulchram ſuper alta ſtrage iacentum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="614,259 617,258 617,233 524,232 472,234 346,234 209,237 104,237 104,265 265,265"/>
+        <TextEquiv index="1">
+          <Unicode>Pro aris atq; focis mortem obijſſe meis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="59,301 82,300 88,296 296,294 353,292 461,292 574,289 601,289 610,294 622,294 622,262 461,262 412,264 327,264 171,267 83,267 60,266 50,262 36,262 32,268 32,274 26,278 1,278 1,306 54,306"/>
+        <TextEquiv index="1">
+          <Unicode>Non ego tam ſæuos ſentirem corde dolores</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="574,292 353,293 296,295 105,297 105,319 574,319"/>
+        <TextEquiv index="1">
+          <Unicode>Lux mea: nec tanta triſtitia obruerer.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="588,348 588,320 328,323 298,325 166,325 126,327 59,326 51,324 46,320 40,320 40,353 266,353"/>
+        <TextEquiv index="1">
+          <Unicode>Si ccine perpetuis ſedet indulgere querelis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="507,380 586,377 586,349 367,353 198,354 147,356 67,355 42,356 33,354 27,346 3,346 3,380 49,378 56,382 371,382"/>
+        <TextEquiv index="1">
+          <Unicode>iEt miſerè e lachrymis diffluere vſq; tuis?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="451,409 513,409 597,406 629,406 636,411 639,411 639,380 508,380 195,385 78,384 78,412 338,412"/>
+        <TextEquiv index="1">
+          <Unicode>Tenè vti ego viuam valeamque, inuiſere Manes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="575,437 580,436 580,409 451,410 338,413 106,414 106,440 422,440"/>
+        <TextEquiv index="1">
+          <Unicode>Velle, ais, æternis cinta caput tenebris?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="235,471 330,471 387,469 516,468 599,464 636,465 636,435 600,435 575,438 536,438 499,440 352,441 235,444 132,444 72,441 72,472 192,473"/>
+        <TextEquiv index="1">
+          <Unicode>Te ſine ego viuam? mea lux, ſic viuere mors eſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="388,500 523,496 583,496 610,494 610,465 470,470 121,474 43,471 36,468 32,464 2,464 2,500 24,500 30,497 56,497 63,500 81,502 186,502"/>
+        <TextEquiv index="1">
+          <Unicode>x Qi ſine, vita, mea viuere poſum anima?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="350,530 418,527 511,527 570,525 601,525 604,527 647,527 647,494 611,494 583,497 523,497 388,501 187,502 144,504 124,503 94,504 63,501 56,498 31,498 31,531 198,531"/>
+        <TextEquiv index="1">
+          <Unicode>Tumea ſola anima es tu ſpiritus, in te ego ſpito.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="458,556 550,555 550,527 418,528 350,531 107,531 107,558 415,558"/>
+        <TextEquiv index="1">
+          <Unicode>Te mihi ſi demas quid niſi funus ego?</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="239,589 321,589 359,587 450,587 609,582 633,582 640,586 651,586 651,552 578,552 558,556 540,557 458,557 415,559 341,559 303,561 81,561 81,591 196,591"/>
+        <TextEquiv index="1">
+          <Unicode>Quid niſi funus ego? tecum nigra Partara viſam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="302,617 389,617 518,613 588,613 588,585 532,585 450,588 359,588 321,590 239,590 196,592 128,591 122,592 114,596 105,596 105,619 272,619"/>
+        <TextEquiv index="1">
+          <Unicode>Regnaq; prohl nullis peruia luminibus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="571,614 518,614 389,618 302,618 272,620 175,622 77,620 77,643 571,643"/>
+        <TextEquiv index="1">
+          <Unicode>Inferni tecum ad metuenda palatia Regis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="525,673 527,672 527,645 86,651 80,655 67,655 59,650 33,650 28,649 22,645 1,645 1,676 356,676"/>
+        <TextEquiv index="1">
+          <Unicode>Lurida fatali per freta puppe vehar.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="321,705 565,702 607,700 612,700 619,704 653,704 653,670 563,670 555,673 525,674 356,677 324,676 271,679 78,680 78,707 212,708"/>
+        <TextEquiv index="1">
+          <Unicode>Atq; illic pariter hadamanthi ad triſte trbunal</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="568,730 568,704 381,705 279,708 213,708 174,710 30,708 21,704 1,704 1,735 336,735"/>
+        <TextEquiv index="1">
+          <Unicode>Ibimus, &amp; pro te cauſam ego ſuſcipiam.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="587,759 587,733 457,733 407,735 241,737 212,739 117,739 76,737 76,766 258,766"/>
+        <TextEquiv index="1">
+          <Unicode>Mulceboq; feram truculenti ludicis iram,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="353,792 459,792 652,786 652,760 561,760 480,763 356,764 219,768 105,767 105,795 307,795"/>
+        <TextEquiv index="1">
+          <Unicode>Plebemque atq; patres in mea vota traham.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="850,763 850,806 886,806 886,763"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="520,820 604,817 622,817 629,821 728,818 728,784 669,784 657,787 579,790 459,793 353,793 307,796 110,797 76,795 76,823 314,823"/>
+        <TextEquiv index="1">
+          <Unicode>Tunc circum applaudet vitulans genus omne anmar,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="583,847 583,820 107,827 107,851 430,851"/>
+        <TextEquiv index="1">
+          <Unicode>Ambiet &amp; noſtrum quiſq; patrocinium.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="264,881 451,880 551,877 607,877 612,880 700,878 700,846 618,846 599,848 539,850 474,850 430,852 247,853 216,855 146,856 79,855 79,883 234,883"/>
+        <TextEquiv index="1">
+          <Unicode>Quin potius, dum fata ſinunt, hilarem indue vultum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="562,906 562,879 264,882 234,884 110,886 110,907 519,907"/>
+        <TextEquiv index="1">
+          <Unicode>F.t mecumitæ munera carpe breuis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="856,886 856,914 886,914 886,886"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="372,938 453,938 580,935 614,935 621,939 644,939 644,905 145,915 65,914 53,908 30,909 30,943 169,943"/>
+        <TextEquiv index="1">
+          <Unicode>Atqanimum obfirma mea lux, nec ſit tibi tanti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="857,914 857,937 883,937 883,914"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="571,965 571,937 505,937 453,939 426,938 110,945 110,968 430,968"/>
+        <TextEquiv index="1">
+          <Unicode>Aſliduo in luctu degere &amp; in lachrymis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="684,967 497,967 380,970 281,970 209,973 97,973 65,971 55,967 31,967 31,994 684,994"/>
+        <TextEquiv index="1">
+          <Unicode>Heunimium ad triſtem facilis via ducit Auernum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="570,1024 570,996 421,997 350,1000 257,1000 199,1002 111,1001 111,1027 364,1027"/>
+        <TextEquiv index="1">
+          <Unicode>Dificile eſt refugos inde referre pedes</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="857,1025 857,1054 885,1054 885,1025"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="621,1057 621,1023 546,1026 365,1027 313,1030 214,1032 80,1031 80,1058 339,1058 483,1054 579,1054 591,1055 597,1058"/>
+        <TextEquiv index="1">
+          <Unicode>Iam tibi, iamq; adero Lephyris velocior ipſis,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="410,1086 483,1083 546,1083 546,1056 447,1056 245,1061 112,1062 112,1088 297,1088"/>
+        <TextEquiv index="1">
+          <Unicode>Aëreas carpam iam duce Amore vias.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="435,1114 489,1114 514,1112 634,1111 634,1083 483,1084 410,1087 298,1088 276,1090 230,1091 96,1091 62,1089 51,1084 46,1088 43,1093 31,1094 31,1119 235,1119"/>
+        <TextEquiv index="1">
+          <Unicode>Iam nouus apto humeris ceratas Dædalus alas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="523,1146 531,1140 565,1140 569,1142 614,1142 621,1146 634,1146 634,1112 514,1113 489,1115 435,1115 235,1120 113,1119 113,1147 448,1147 454,1143 473,1143 479,1147 511,1147"/>
+        <TextEquiv index="1">
+          <Unicode>Vel mihi forma Aquilæ, vel mihi Oloris erit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="705,1140 705,1160 738,1160 738,1140"/>
+        <TextEquiv index="1">
+          <Unicode>Ea</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="507,1143 507,1168 561,1168 561,1143"/>
+        <TextEquiv index="1">
+          <Unicode>Sſa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="241,1274 241,1294 297,1294 297,1274"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

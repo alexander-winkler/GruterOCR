@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:52</Created>
+    <LastChange>2020-04-14T13:52:52</LastChange>
+  </Metadata>
+  <Page imageFilename="0005.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="625,81 629,79 768,80 768,59 237,59 237,82 350,80 358,85 365,93 613,93"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="154,85 184,85 184,43 1,44 1,98 12,101 138,101"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="874,104 885,94 885,75 868,75 861,80 852,82 629,80 623,84 623,102 630,105 681,107 868,107"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="349,106 351,105 351,82 313,81 236,83 228,81 224,84 218,85 154,86 139,101 145,106 155,109 270,109"/>
+        <TextEquiv index="1">
+          <Unicode>I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="83,164 91,161 106,161 118,150 126,147 135,146 183,146 264,142 369,140 702,141 710,144 722,154 881,155 885,154 885,95 871,107 863,109 750,109 641,107 627,105 621,102 613,94 550,93 366,95 355,105 345,108 270,110 155,110 147,108 139,102 49,103 49,165 68,165"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="885,155 759,156 722,155 717,151 118,151 114,154 114,206 123,207 239,206 264,204 337,203 588,201 802,207 815,208 821,210 837,222 885,222"/>
+        <TextEquiv index="1">
+          <Unicode>C. POETARVMBE-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="142,211 142,247 740,247 740,211"/>
+        <TextEquiv index="1">
+          <Unicode>GICORVM,HVIVSSV-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="230,256 230,296 648,296 648,256"/>
+        <TextEquiv index="1">
+          <Unicode>PERIORISQVEÆVI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="349,298 349,332 524,332 524,298"/>
+        <TextEquiv index="1">
+          <Unicode>illuſtrium,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="171,373 171,420 605,420 605,373"/>
+        <TextEquiv index="1">
+          <Unicode>PRIMA PARS</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="372,428 372,461 639,461 639,428"/>
+        <TextEquiv index="1">
+          <Unicode>Collectore</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="707,461 702,460 639,460 628,468 616,472 508,474 260,475 250,472 238,465 165,467 165,530 707,530"/>
+        <TextEquiv index="1">
+          <Unicode>RANVTIO GHERO</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="313,570 313,628 605,628 605,570"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="414,712 428,706 459,706 468,698 476,695 511,694 517,693 521,690 545,690 560,688 564,686 584,665 584,653 580,646 570,638 344,638 339,648 338,659 285,659 286,714 377,714"/>
+        <TextEquiv index="1">
+          <Unicode>a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="627,663 586,663 572,679 564,687 560,689 545,691 521,691 517,694 511,695 482,696 482,724 501,727 525,727 536,735 549,735 561,740 626,740"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="552,737 536,736 525,728 501,728 476,724 459,707 428,707 418,712 402,714 294,715 294,765 304,766 319,771 330,772 394,774 403,778 410,784 552,784"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="348,811 352,809 375,809 393,806 394,775 323,775 323,821 338,821"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="471,846 476,843 489,840 592,838 594,837 594,788 413,788 393,807 375,810 358,810 358,848 412,848"/>
+        <TextEquiv index="1">
+          <Unicode>s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="517,908 595,907 595,844 476,844 471,847 453,848 355,850 346,849 334,844 309,844 309,911 478,911"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="19,879 19,958 80,958 80,879"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="253,962 253,1001 668,1001 668,962"/>
+        <TextEquiv index="1">
+          <Unicode>FRANCOFVRTI,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="810,1057 810,1001 169,1001 169,1062 216,1062 229,1049 236,1045 351,1040 508,1040 544,1043 564,1043 567,1045 577,1045 585,1048 601,1062 802,1062"/>
+        <TextEquiv index="1">
+          <Unicode>Typis Nicolai Hoffmanni, Sumptibus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="682,1101 648,1100 641,1096 629,1093 589,1091 580,1094 254,1095 234,1093 226,1090 112,1087 112,1161 431,1161 435,1159 450,1157 537,1157 682,1161"/>
+        <TextEquiv index="1">
+          <Unicode>s oc, i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="871,1158 730,1158 725,1161 719,1162 657,1162 537,1158 458,1158 458,1200 618,1200 627,1204 634,1210 871,1210"/>
+        <TextEquiv index="1">
+          <Unicode>lo aaæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

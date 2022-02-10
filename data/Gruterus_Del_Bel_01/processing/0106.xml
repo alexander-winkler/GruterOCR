@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:53</Created>
+    <LastChange>2020-04-14T13:52:53</LastChange>
+  </Metadata>
+  <Page imageFilename="0106.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="1,1 1,24 77,24 77,1"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="786,6 786,37 886,37 886,6"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="688,38 688,59 732,59 732,38"/>
+        <TextEquiv index="1">
+          <Unicode>985</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="224,29 224,65 544,65 544,29"/>
+        <TextEquiv index="1">
+          <Unicode>C0MTIS.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="832,37 832,76 874,76 874,37"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="96,82 96,120 645,120 645,82"/>
+        <TextEquiv index="1">
+          <Unicode>Quod nequeunt cœlifulmina, Mortis agunt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="337,123 337,145 446,145 446,123"/>
+        <TextEquiv index="1">
+          <Unicode>De eodem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="314,194 439,192 520,188 587,188 602,189 608,192 634,192 634,159 344,159 210,162 149,165 71,164 71,200 141,200"/>
+        <TextEquiv index="1">
+          <Unicode>Quæ tam duræ aures, quæ tam præcordia duro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="1,187 1,230 32,230 32,187"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="556,219 556,191 469,191 439,193 314,195 214,199 101,201 94,202 91,204 72,204 72,224 370,224"/>
+        <TextEquiv index="1">
+          <Unicode>Exciſa e ſaxo. tigridum nutritaque lacte,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="414,251 669,247 669,219 560,219 535,221 251,227 184,230 75,231 75,254 356,254"/>
+        <TextEquiv index="1">
+          <Unicode>Ploratum cohibere queant. dum nomen id vnum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="466,280 527,280 546,278 628,277 662,277 667,280 667,250 517,250 213,258 156,261 76,260 76,283 412,283"/>
+        <TextEquiv index="1">
+          <Unicode>Defuncti auſcultant Marci, &amp; dum claudier antro</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="346,314 397,314 441,311 611,308 615,307 615,280 466,281 349,286 206,288 151,291 85,290 79,291 79,318 237,318"/>
+        <TextEquiv index="1">
+          <Unicode>Conſpectant Laurum crudeli falce reſectam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="282,346 510,341 552,338 667,337 667,311 488,311 441,312 397,315 238,318 214,320 80,321 80,349 241,349"/>
+        <TextEquiv index="1">
+          <Unicode>Qua mage digna fuit longum &amp; ſine fine virorem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="215,378 276,378 399,373 455,373 566,368 638,368 638,339 552,339 510,342 345,345 172,352 81,352 81,379 148,381"/>
+        <TextEquiv index="1">
+          <Unicode>Seruare: vt cuius patulo ſub tegmin Phœbus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="281,406 357,405 458,401 562,401 566,403 616,403 739,400 739,366 674,366 663,368 639,369 566,369 455,374 399,374 276,379 215,379 148,382 77,380 77,409 232,409"/>
+        <TextEquiv index="1">
+          <Unicode>Theſpia deſque omnes omnes hariteſque manebant.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="517,431 517,404 391,404 158,412 82,410 82,434 405,434"/>
+        <TextEquiv index="1">
+          <Unicode>Illic voce bona reſonabat Calliopea,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="503,461 503,433 406,434 340,437 278,437 228,440 172,441 82,440 82,465 377,465"/>
+        <TextEquiv index="1">
+          <Unicode>Illic hiſtorica Clio res ordine geſias</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="228,498 296,498 362,495 433,494 470,491 553,490 586,486 656,486 656,460 537,460 436,465 378,465 262,469 208,469 176,472 83,472 83,500 199,500"/>
+        <TextEquiv index="1">
+          <Unicode>Prompſit &amp; heic Erato dulces cantabat amores.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="285,527 395,525 483,520 555,520 687,517 694,521 723,521 727,519 731,513 731,491 729,488 572,488 553,491 470,492 433,495 362,496 296,499 228,499 200,500 188,502 84,504 84,531 200,531"/>
+        <TextEquiv index="1">
+          <Unicode>Atque ibi Melpomene tragica florenſoue Thalia</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="595,548 643,548 643,520 483,521 446,524 285,528 235,531 163,533 83,533 83,555 413,555"/>
+        <TextEquiv index="1">
+          <Unicode>Heic citharœda choris exſultans Terpſichorea</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="1,537 1,574 37,574 37,537"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="500,580 563,580 584,578 664,577 664,549 595,549 538,552 499,552 445,555 339,557 309,559 242,559 170,563 86,563 86,586 364,586"/>
+        <TextEquiv index="1">
+          <Unicode>Suauis ibi Euterpe, nec non olyhymnia multis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="375,614 420,614 492,611 570,611 576,614 649,613 651,612 651,580 500,581 402,586 284,588 231,591 194,591 160,593 77,593 77,617 325,617"/>
+        <TextEquiv index="1">
+          <Unicode>Inc lita carminibus Lesboum tendere plectrum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="197,650 301,648 412,643 532,640 532,612 375,615 269,620 183,620 163,623 132,624 86,623 86,652 176,652"/>
+        <TextEquiv index="1">
+          <Unicode>Pergit &amp; Vranie cœli ſc rutarier aſtra.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="222,679 271,679 297,676 466,673 513,670 643,667 643,639 565,639 519,642 444,643 363,647 197,651 161,654 88,653 88,682 171,682"/>
+        <TextEquiv index="1">
+          <Unicode>Vt planè harmoniam cunctam viguiſſe ſub vnma</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="555,699 623,699 633,702 664,702 664,668 610,668 548,671 513,671 466,674 297,677 271,680 222,680 171,683 90,683 90,706 348,706"/>
+        <TextEquiv index="1">
+          <Unicode>Credatur Lauru. Charitum queis ternio iunctus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="369,736 407,733 520,731 583,728 588,727 588,700 438,703 417,705 316,707 254,711 90,715 90,737 300,737"/>
+        <TextEquiv index="1">
+          <Unicode>Stabat connexis lætè &amp; concorditer vlnis,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="229,769 367,766 408,763 530,761 605,757 688,757 688,727 607,727 555,731 407,734 369,737 301,737 250,741 180,742 160,744 90,744 90,774 161,774"/>
+        <TextEquiv index="1">
+          <Unicode>Euphroſyne ohlectans, Aglaa, virenſque Thaleia.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="435,792 607,788 632,788 639,792 668,792 668,758 605,758 562,761 442,763 367,767 254,769 161,775 90,775 90,796 351,796"/>
+        <TextEquiv index="1">
+          <Unicode>Omnia nunc heu muta ſilent, nunc omnia ſurda;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="540,824 585,824 585,792 435,793 405,795 372,795 335,798 219,801 164,805 112,804 92,805 92,827 465,827"/>
+        <TextEquiv index="1">
+          <Unicode>Vnius ex auri caſu dolor omnibus vnus.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="268,832 268,870 580,870 580,832"/>
+        <TextEquiv index="1">
+          <Unicode>Sophia in morte Ludouici Viuis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="66,927 73,924 93,923 96,921 123,917 205,916 263,912 352,911 424,908 458,905 542,904 571,902 614,902 620,905 677,905 677,872 426,872 376,876 272,878 194,882 65,881 53,882 50,878 46,876 38,876 34,878 30,884 29,899 1,899 1,932 61,932"/>
+        <TextEquiv index="1">
+          <Unicode>Quando igitur mihi non licuit te corpore viuum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="566,938 566,906 458,906 380,911 263,913 205,917 124,918 124,940 484,940"/>
+        <TextEquiv index="1">
+          <Unicode>Seruare, eſficiam nomine Viues eris.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="699,973 729,970 735,968 735,959 600,959 600,974 655,974"/>
+        <TextEquiv index="1">
+          <Unicode>T</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="578,1005 581,1000 756,996 756,970 730,970 699,974 655,975 576,975 572,974 568,970 401,970 401,1009 573,1009"/>
+        <TextEquiv index="1">
+          <Unicode>Q S</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="1,973 1,1022 39,1022 39,973"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="383,1038 383,1063 472,1063 472,1038"/>
+        <TextEquiv index="1">
+          <Unicode>:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="1,1051 1,1085 38,1085 38,1051"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="1,1117 1,1145 37,1145 37,1117"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="849,1284 860,1278 860,1268 859,1266 740,1266 740,1285 804,1285"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="1,1276 1,1310 268,1310 268,1276"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="851,1270 851,1310 886,1310 886,1270"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

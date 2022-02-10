@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:54</Created>
+    <LastChange>2020-04-14T13:52:54</LastChange>
+  </Metadata>
+  <Page imageFilename="0064.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="763,1 763,24 856,24 856,1"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="1,43 1,81 34,81 34,43"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="288,71 288,93 700,93 700,71"/>
+        <TextEquiv index="1">
+          <Unicode>ALMÆBELLIGIGANT</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="150,82 150,101 186,101 186,82"/>
+        <TextEquiv index="1">
+          <Unicode>44</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="1,81 1,128 29,128 29,81"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="845,38 845,125 884,125 884,38"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="450,138 659,139 659,110 152,110 152,140 382,140"/>
+        <TextEquiv index="1">
+          <Unicode>Oboſedere alii. Nam qua conuexus ad arces</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="843,129 843,154 886,154 886,129"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="323,168 629,168 629,140 450,139 382,141 322,140 270,143 159,142 150,143 150,170 310,170"/>
+        <TextEquiv index="1">
+          <Unicode>Riphæas polus aſlurit nocteſq; dieſque</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="885,190 885,160 841,160 841,192 853,192"/>
+        <TextEquiv index="1">
+          <Unicode>m</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="741,168 581,170 323,169 310,171 269,172 151,173 151,200 278,200 412,197 664,198 692,200 741,200"/>
+        <TextEquiv index="1">
+          <Unicode>Magna minorq; feræ inſomnes ſic ca atria ſeruant:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="859,192 859,215 884,215 884,192"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="451,226 514,226 563,228 647,227 647,199 357,199 279,200 215,204 193,203 155,204 155,229 311,229"/>
+        <TextEquiv index="1">
+          <Unicode>Icarus hac Heycen cuſtos defendit:at illa</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="711,228 377,228 229,232 152,231 152,257 711,257"/>
+        <TextEquiv index="1">
+          <Unicode>Parte tenet ſocer aurigenæ Cyoſuran &amp; axem,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="708,259 587,259 564,257 492,257 341,258 153,262 153,287 316,287 362,284 468,287 708,287"/>
+        <TextEquiv index="1">
+          <Unicode>Inſidia ſque a.ho prohibent cœleſtibus armis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="847,282 847,305 886,305 886,282"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="306,316 566,317 589,315 624,315 682,317 682,289 344,286 316,288 255,288 236,290 154,290 154,319 235,319"/>
+        <TextEquiv index="1">
+          <Unicode>Qu ſed inac ceſſos Lybi æ deuexus in Auſtros</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="2,242 2,371 32,371 32,242"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="848,308 848,339 886,339 886,308"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="711,346 711,318 306,317 193,321 154,320 154,347 271,347 288,345 701,347"/>
+        <TextEquiv index="1">
+          <Unicode>Deprimitur noſtros horreſcens cardo Triones,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="847,339 847,367 884,367 884,339"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="784,346 701,348 288,346 239,349 153,350 153,375 784,375"/>
+        <TextEquiv index="1">
+          <Unicode>Imboribus aſſiduiſque madent caſtra humida nymbis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="847,367 847,396 886,396 886,367"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="675,378 256,377 153,378 153,406 233,406 268,404 675,406"/>
+        <TextEquiv index="1">
+          <Unicode>Hic quo vix toto violentior amnis Olympo,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="640,408 638,407 268,405 203,408 155,408 155,435 640,435"/>
+        <TextEquiv index="1">
+          <Unicode>Stelifer Eridanus ſinuoſis flexibus errat,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="3,414 3,444 31,444 31,414"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="754,435 679,435 637,437 438,435 269,435 204,437 154,436 154,462 173,464 754,465"/>
+        <TextEquiv index="1">
+          <Unicode>Troianuſque gerit puer vrnam. vndaſque refundit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="667,466 250,465 201,466 152,464 152,493 667,493"/>
+        <TextEquiv index="1">
+          <Unicode>Iaxima ſed hœbo cœli conceſſa poteſtas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="698,496 271,494 234,496 158,495 154,496 154,523 698,524"/>
+        <TextEquiv index="1">
+          <Unicode>Signorum obliquus qua circumuertitur ordo:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="1,486 1,530 37,530 37,486"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="699,526 155,524 155,552 172,553 699,553"/>
+        <TextEquiv index="1">
+          <Unicode>Cynthius hic vacuis ſolus dominatur in aulis,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="710,556 605,554 447,555 362,553 154,553 154,582 710,582"/>
+        <TextEquiv index="1">
+          <Unicode>Et paucis fas Diuum operoſum inſiſtere limen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="758,583 749,585 156,583 156,611 163,612 758,612"/>
+        <TextEquiv index="1">
+          <Unicode>Infima regna tenet, Tropicum depreſſus ad imum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="883,636 883,608 847,608 847,637 875,637"/>
+        <TextEquiv index="1">
+          <Unicode>s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="688,616 555,614 155,612 155,640 688,640"/>
+        <TextEquiv index="1">
+          <Unicode>.goceros gelido brumæ intractabilis imbre.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="2,632 2,662 41,662 41,632"/>
+        <TextEquiv index="1">
+          <Unicode>i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="885,640 850,640 850,667 885,667"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="683,645 538,643 156,642 156,672 227,670 332,670 411,672 683,672"/>
+        <TextEquiv index="1">
+          <Unicode>Hinc via ublimis, qua noſter ſurgit horiron,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="849,669 849,690 886,690 886,669"/>
+        <TextEquiv index="1">
+          <Unicode>M</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="31,674 1,674 1,690 27,690 31,692"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="639,674 411,673 332,671 227,671 156,673 156,699 474,702 639,702"/>
+        <TextEquiv index="1">
+          <Unicode>Aurea Phryxææ depromit vellera Capræ.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="31,734 31,693 27,691 3,691 3,739 23,739"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="711,701 682,701 676,703 651,704 545,704 356,701 158,701 158,728 711,728"/>
+        <TextEquiv index="1">
+          <Unicode>Oppoſitaque pares cum ibra examinat horas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="157,730 157,760 703,760 703,730"/>
+        <TextEquiv index="1">
+          <Unicode>Altior at Graiam conſurgit Cancer ad Arctan,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l045">
+        <Coords points="156,760 156,790 679,790 679,760"/>
+        <TextEquiv index="1">
+          <Unicode>Dilatatque dies, &amp; opacas contrahit vmbras,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l046">
+        <Coords points="670,793 451,792 387,790 155,790 155,816 496,821 670,821"/>
+        <TextEquiv index="1">
+          <Unicode>Hinc iterum manifeſta rotæ veſtigia ducunt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l047">
+        <Coords points="799,818 722,818 714,822 705,823 538,823 495,821 397,821 345,819 154,818 154,846 352,848 452,851 799,851"/>
+        <TextEquiv index="1">
+          <Unicode>Sub Styga. perpetuumque gelu, maneſque profundos,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l048">
+        <Coords points="701,853 452,852 352,849 156,848 156,875 174,876 701,876"/>
+        <TextEquiv index="1">
+          <Unicode>Haud aliter, quam ſi ſummo de vertice montis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l049">
+        <Coords points="658,882 540,882 504,880 378,880 236,877 155,877 155,904 166,905 250,907 658,907"/>
+        <TextEquiv index="1">
+          <Unicode>Infima præcipites videas ad Tartara valles.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l050">
+        <Coords points="1,889 1,941 33,941 33,889"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l051">
+        <Coords points="647,912 556,911 484,912 416,909 155,907 155,933 183,933 229,936 319,936 405,939 647,939"/>
+        <TextEquiv index="1">
+          <Unicode>Hæc cœleſte ſolum cuſtodia cingit &amp; alti</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l052">
+        <Coords points="653,942 519,942 319,937 156,936 156,963 170,964 653,965"/>
+        <TextEquiv index="1">
+          <Unicode>Tecta louis multo circum munita labore,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l053">
+        <Coords points="700,971 547,972 440,969 298,968 257,965 155,965 155,993 231,995 700,995"/>
+        <TextEquiv index="1">
+          <Unicode>Vis vt nulla queat, vel adacto exſcindere ferro.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l054">
+        <Coords points="885,967 851,968 851,989 885,989"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l055">
+        <Coords points="770,997 749,997 742,1001 551,1002 301,996 185,996 185,1023 245,1025 377,1026 404,1028 492,1030 770,1030"/>
+        <TextEquiv index="1">
+          <Unicode>Iuppiter hæc ſummo dum ſingula curat Olympo.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l056">
+        <Coords points="682,1032 534,1032 491,1030 404,1029 377,1027 153,1025 153,1051 161,1051 168,1053 341,1055 462,1059 682,1059"/>
+        <TextEquiv index="1">
+          <Unicode>Terrigenæ priſca Phæacum ab origine regem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l057">
+        <Coords points="31,1041 31,1016 1,1016 1,1042 11,1042"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l058">
+        <Coords points="30,1042 1,1043 1,1063 30,1063"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l059">
+        <Coords points="773,1057 767,1056 736,1056 732,1059 723,1061 622,1062 462,1060 341,1056 153,1055 153,1081 170,1082 194,1082 215,1084 344,1085 385,1087 773,1087"/>
+        <TextEquiv index="1">
+          <Unicode>Eurymedonta ſatum, ſceptris &amp; honoribus auctum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l060">
+        <Coords points="1,1064 1,1090 32,1090 32,1064"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l061">
+        <Coords points="649,1091 462,1090 432,1088 385,1088 297,1085 148,1084 148,1112 291,1114 463,1119 649,1120"/>
+        <TextEquiv index="1">
+          <Unicode>Militiæ paciſque ducem legere: Typhoeus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l062">
+        <Coords points="1,1092 1,1137 31,1137 31,1092"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l063">
+        <Coords points="685,1121 539,1120 534,1121 245,1114 152,1114 152,1148 300,1149 327,1151 685,1151"/>
+        <TextEquiv index="1">
+          <Unicode>Enceladuſque pari regem virtute ſequuntur,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l064">
+        <Coords points="851,1120 851,1142 886,1142 886,1120"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l065">
+        <Coords points="713,1151 713,1178 806,1178 806,1151"/>
+        <TextEquiv index="1">
+          <Unicode>Et iam</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l066">
+        <Coords points="1,1218 1,1252 29,1252 29,1218"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l067">
+        <Coords points="1,1255 1,1277 63,1277 63,1255"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l068">
+        <Coords points="63,1275 63,1297 188,1297 188,1275"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2017-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>User123</Creator>
+    <Created>2020-04-14T13:52:53</Created>
+    <LastChange>2020-04-14T13:52:53</LastChange>
+  </Metadata>
+  <Page imageFilename="0461.png" imageHeight="1312" imageWidth="888">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 886,1 886,1310 1,1310"/>
+      <TextLine id="r0_l001">
+        <Coords points="353,73 353,94 605,94 605,73"/>
+        <TextEquiv index="1">
+          <Unicode>BAVDII</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="159,78 159,100 205,100 205,78"/>
+        <TextEquiv index="1">
+          <Unicode>406</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="847,138 860,138 868,133 885,133 885,104 834,106 834,140 840,140"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l004">
+        <Coords points="630,139 630,111 160,111 160,140 598,140"/>
+        <TextEquiv index="1">
+          <Unicode>Diamque mentem, quæ caduci corporis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l005">
+        <Coords points="855,165 885,165 885,134 868,134 860,139 834,141 834,167 840,167"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l006">
+        <Coords points="660,141 643,140 461,140 160,143 160,169 660,169"/>
+        <TextEquiv index="1">
+          <Unicode>Implebat ingens hoſpes anguſtum Larem.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l007">
+        <Coords points="864,196 885,196 885,167 835,168 835,199 847,198"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l008">
+        <Coords points="161,170 161,199 547,199 547,170"/>
+        <TextEquiv index="1">
+          <Unicode>Hac excitatus laude virtutis tuæ,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l009">
+        <Coords points="1,173 1,241 42,241 42,173"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l010">
+        <Coords points="615,199 291,199 249,201 204,200 201,201 160,199 160,227 171,228 411,226 566,226 615,228"/>
+        <TextEquiv index="1">
+          <Unicode>Flagraus &amp; ipſe amore Montani pattis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l011">
+        <Coords points="860,225 885,225 885,199 836,199 835,228 846,227"/>
+        <TextEquiv index="1">
+          <Unicode>t</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l012">
+        <Coords points="551,227 268,228 237,230 160,228 160,256 551,256"/>
+        <TextEquiv index="1">
+          <Unicode>Te virginem riualis inſons ardeo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l013">
+        <Coords points="860,255 884,255 884,226 836,228 835,258 839,258"/>
+        <TextEquiv index="1">
+          <Unicode>e</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l014">
+        <Coords points="1,245 1,282 42,282 42,245"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l015">
+        <Coords points="613,256 272,258 165,257 165,285 613,285"/>
+        <TextEquiv index="1">
+          <Unicode>Non ante viſam, non ab ore cognitam,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l016">
+        <Coords points="885,257 848,257 835,259 835,286 885,286"/>
+        <TextEquiv index="1">
+          <Unicode>u</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l017">
+        <Coords points="642,286 164,287 164,314 642,314"/>
+        <TextEquiv index="1">
+          <Unicode>Sed mentis à ſplendore, quo potiſſimum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l018">
+        <Coords points="885,287 835,288 835,341 885,341"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l019">
+        <Coords points="593,315 162,316 162,336 593,336"/>
+        <TextEquiv index="1">
+          <Unicode>Cenſere cenſu nobiles animas decet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l020">
+        <Coords points="583,345 162,344 162,372 583,373"/>
+        <TextEquiv index="1">
+          <Unicode>Nunc ſimanere moribus tuis amas,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l021">
+        <Coords points="835,344 835,375 886,375 886,344"/>
+        <TextEquiv index="1">
+          <Unicode>i</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l022">
+        <Coords points="594,374 161,373 161,399 594,399"/>
+        <TextEquiv index="1">
+          <Unicode>OFranca Siren decima Muſæi chori,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l023">
+        <Coords points="835,376 835,404 886,404 886,376"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l024">
+        <Coords points="160,402 160,424 633,424 633,402"/>
+        <TextEquiv index="1">
+          <Unicode>Vel hunc vici ſſim amare cultorem tuum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l025">
+        <Coords points="835,408 835,434 886,434 886,408"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l026">
+        <Coords points="600,433 161,431 161,460 600,460"/>
+        <TextEquiv index="1">
+          <Unicode>Dignare. vel ſi non capit tantum boni</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l027">
+        <Coords points="854,436 854,464 885,464 885,436"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l028">
+        <Coords points="662,460 651,460 645,462 444,461 395,462 335,460 259,460 197,462 164,461 164,489 662,489"/>
+        <TextEquiv index="1">
+          <Unicode>Sors noſtra, ſaltem, quod vetare nec potes,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l029">
+        <Coords points="854,466 854,494 886,494 886,466"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l030">
+        <Coords points="41,472 36,476 1,476 1,508 41,508"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l031">
+        <Coords points="162,490 162,514 579,514 579,490"/>
+        <TextEquiv index="1">
+          <Unicode>Nec velle debes, te coli volens feres.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l032">
+        <Coords points="856,494 856,526 886,526 886,494"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l033">
+        <Coords points="1,509 1,542 43,542 43,509"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l034">
+        <Coords points="857,526 857,556 886,556 886,526"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l035">
+        <Coords points="306,545 306,572 587,572 587,545"/>
+        <TextEquiv index="1">
+          <Unicode>Ad Gulielmum u peyra:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l036">
+        <Coords points="1,542 1,576 66,576 66,542"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l037">
+        <Coords points="854,559 854,575 886,575 886,559"/>
+        <TextEquiv index="1">
+          <Unicode>uu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l038">
+        <Coords points="851,583 851,606 885,606 885,583"/>
+        <TextEquiv index="1">
+          <Unicode>H</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l039">
+        <Coords points="518,611 556,612 556,583 159,583 159,613 449,613"/>
+        <TextEquiv index="1">
+          <Unicode>Venuſte vates qui forenſibus curis</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l040">
+        <Coords points="837,616 837,642 886,642 886,616"/>
+        <TextEquiv index="1">
+          <Unicode>eet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l041">
+        <Coords points="600,613 518,612 375,615 162,614 162,637 600,637"/>
+        <TextEquiv index="1">
+          <Unicode>Miſces amice amœna iacra Muſarum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l042">
+        <Coords points="65,622 1,621 1,652 65,652"/>
+        <TextEquiv index="1">
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l043">
+        <Coords points="527,671 527,643 183,644 162,642 162,670 198,672 401,672"/>
+        <TextEquiv index="1">
+          <Unicode>Fontiſq rore proluis Caballini</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l044">
+        <Coords points="838,642 838,669 886,669 886,642"/>
+        <TextEquiv index="1">
+          <Unicode>Sup</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l045">
+        <Coords points="42,653 1,653 1,682 19,682 26,686 42,686"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l046">
+        <Coords points="645,670 401,673 198,673 163,671 163,699 183,701 645,701"/>
+        <TextEquiv index="1">
+          <Unicode>Themin ſupremi quæ Tonantis aſſeſtrix</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l047">
+        <Coords points="853,671 853,693 886,693 886,671"/>
+        <TextEquiv index="1">
+          <Unicode>le</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l048">
+        <Coords points="617,729 617,701 234,703 183,702 160,700 160,729 170,730 577,730"/>
+        <TextEquiv index="1">
+          <Unicode>Di ſpenſat æqu lance ius ſuum cuique.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l049">
+        <Coords points="855,701 855,731 886,731 886,701"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l050">
+        <Coords points="40,745 40,716 26,716 19,720 1,720 1,747 34,747"/>
+        <TextEquiv index="1">
+          <Unicode>s</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l051">
+        <Coords points="636,731 162,731 162,759 636,759"/>
+        <TextEquiv index="1">
+          <Unicode>Sic vita poſcit hic decet modus cunctos</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l052">
+        <Coords points="855,733 855,761 886,761 886,733"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l053">
+        <Coords points="41,782 41,745 39,747 34,748 1,748 1,783 32,783"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l054">
+        <Coords points="592,760 162,760 162,788 592,788"/>
+        <TextEquiv index="1">
+          <Unicode>Qui ſapere ſeſe poſtulant bono more,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l055">
+        <Coords points="855,761 855,782 886,782 886,761"/>
+        <TextEquiv index="1">
+          <Unicode>his</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l056">
+        <Coords points="160,790 160,817 642,817 642,790"/>
+        <TextEquiv index="1">
+          <Unicode>Ne continenter, omne acumen appellant</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l057">
+        <Coords points="857,791 857,817 886,817 886,791"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l058">
+        <Coords points="40,799 1,799 1,831 39,831"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l059">
+        <Coords points="565,819 159,818 159,845 229,847 565,847"/>
+        <TextEquiv index="1">
+          <Unicode>Rebus ſeueris ſeriiſq ſed iungant</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l060">
+        <Coords points="858,821 858,842 886,842 886,821"/>
+        <TextEquiv index="1">
+          <Unicode>Il</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l061">
+        <Coords points="32,857 40,856 40,831 1,832 1,868 21,868"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l062">
+        <Coords points="528,849 156,847 156,875 528,876"/>
+        <TextEquiv index="1">
+          <Unicode>Duro labori ſobrias voluptates.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l063">
+        <Coords points="857,852 857,871 886,871 886,852"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l064">
+        <Coords points="158,877 158,905 610,905 610,877"/>
+        <TextEquiv index="1">
+          <Unicode>Hoc nempe pacto liber inuerecundus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l065">
+        <Coords points="34,874 22,870 1,870 1,894 34,894"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l066">
+        <Coords points="858,880 858,908 886,908 886,880"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l067">
+        <Coords points="34,907 34,896 31,894 1,895 1,908 32,908"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l068">
+        <Coords points="586,907 160,906 160,932 215,934 586,934"/>
+        <TextEquiv index="1">
+          <Unicode>Amat domari ienitate Nympharum.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l069">
+        <Coords points="40,906 32,909 1,909 1,946 40,946"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l070">
+        <Coords points="859,915 859,930 884,930 884,915"/>
+        <TextEquiv index="1">
+          <Unicode>li</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l071">
+        <Coords points="560,937 399,937 329,935 157,934 157,957 560,957"/>
+        <TextEquiv index="1">
+          <Unicode>Cato ſeuerus ille cenſor interdum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l072">
+        <Coords points="841,939 841,961 886,961 886,939"/>
+        <TextEquiv index="1">
+          <Unicode>I</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l073">
+        <Coords points="1,950 1,1016 40,1016 40,950"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l074">
+        <Coords points="160,962 160,994 538,994 538,962"/>
+        <TextEquiv index="1">
+          <Unicode>Caluiſſe fertur largiore temeto.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l075">
+        <Coords points="646,994 156,994 156,1019 188,1019 251,1022 646,1022"/>
+        <TextEquiv index="1">
+          <Unicode>ex magnus olim cum choro puellorum,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l076">
+        <Coords points="525,1025 156,1021 156,1048 164,1049 293,1050 331,1052 525,1052"/>
+        <TextEquiv index="1">
+          <Unicode>Blandiſq; natis luſitare geſtiuit.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l077">
+        <Coords points="620,1050 571,1050 560,1054 470,1055 331,1053 293,1051 154,1050 154,1076 182,1076 208,1079 272,1080 620,1080"/>
+        <TextEquiv index="1">
+          <Unicode>Nec ſceptri honore iudicauit indignum</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l078">
+        <Coords points="861,1062 861,1081 886,1081 886,1062"/>
+        <TextEquiv index="1">
+          <Unicode>c</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l079">
+        <Coords points="599,1083 373,1083 330,1081 154,1079 154,1107 316,1109 345,1111 599,1111"/>
+        <TextEquiv index="1">
+          <Unicode>Miſcere patrem cum graui Megiſtane.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l080">
+        <Coords points="2,1076 2,1126 37,1126 37,1076"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l081">
+        <Coords points="614,1112 516,1114 454,1113 411,1114 316,1110 155,1110 155,1139 614,1139"/>
+        <TextEquiv index="1">
+          <Unicode>Quærunt vices humana, nec diudurant</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l082">
+        <Coords points="737,1122 737,1171 885,1171 885,1122"/>
+        <TextEquiv index="1">
+          <Unicode>Quæ</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l083">
+        <Coords points="198,1269 198,1285 318,1285 318,1269"/>
+        <TextEquiv index="1">
+          <Unicode/>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
