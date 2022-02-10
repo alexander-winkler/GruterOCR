@@ -1,0 +1,102 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>OCR4all</Creator>
+    <Created>2022-02-09T19:29:09</Created>
+    <LastChange>2022-02-09T19:29:09</LastChange>
+  </Metadata>
+  <Page imageFilename="0006.png" imageHeight="1227" imageWidth="791">
+    <TextRegion id="r0" type="paragraph">
+      <Coords points="1,1 789,1 789,1225 1,1225"/>
+      <TextLine id="r0_l001">
+        <Coords points="1,241 2,241 13,241 13,239 14,238 13,237 13,231 14,230 467,230 467,223 468,222 681,222 681,211 682,210 767,210 770,207 770,194 771,193 778,193 779,192 779,190 778,188 777,188 776,188 776,150 775,149 775,116 774,115 774,110 774,109 767,109 766,109 766,106 765,105 765,96 763,94 763,93 762,91 761,92 761,94 758,94 757,95 757,96 756,97 756,104 1,104 1,105 1,239 1,240 1,241"/>
+        <Word id="w197">
+          <Coords points="200,91 250,91 250,241 200,241"/>
+          <Glyph id="w197g0">
+            <Coords points="200,91 200,91 200,241 200,241"/>
+            <TextEquiv index="1" conf="0.8196889102458953">
+              <Unicode>P</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w197g1">
+            <Coords points="250,91 250,91 250,241 250,241"/>
+            <TextEquiv index="1" conf="0.9857781767845155">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.8080314394726851">
+            <Unicode>P.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w198">
+          <Coords points="382,91 482,91 482,241 382,241"/>
+          <Glyph id="w198g0">
+            <Coords points="382,91 382,91 382,241 382,241"/>
+            <TextEquiv index="1" conf="0.667022705078125">
+              <Unicode>h</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w198g1">
+            <Coords points="482,91 482,91 482,241 482,241"/>
+            <TextEquiv index="1" conf="0.4521356225013733">
+              <Unicode>.</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.301584725983048">
+            <Unicode>h.</Unicode>
+          </TextEquiv>
+        </Word>
+        <Word id="w199">
+          <Coords points="615,91 714,91 714,241 615,241"/>
+          <Glyph id="w199g0">
+            <Coords points="615,91 615,91 615,241 615,241"/>
+            <TextEquiv index="1" conf="0.29050931334495544">
+              <Unicode>θ</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w199g1">
+            <Coords points="681,91 681,91 681,241 681,241"/>
+            <TextEquiv index="1" conf="0.22115439176559448">
+              <Unicode>7</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <Glyph id="w199g2">
+            <Coords points="714,91 714,91 714,241 714,241"/>
+            <TextEquiv index="1" conf="0.9560802578926086">
+              <Unicode>,</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.06142568079503408">
+            <Unicode>θ7,</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.6797993302345275">
+          <Unicode>P. h. θ7,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l002">
+        <Coords points="777,358 778,357 778,356 779,355 779,344 780,343 780,333 781,332 787,332 787,330 786,329 786,280 786,279 777,279 776,279 776,276 775,275 775,268 774,267 774,259 773,258 773,251 772,250 772,228 771,227 771,224 770,223 770,208 770,207 766,211 766,221 625,221 624,222 624,263 625,264 625,268 626,269 626,272 627,273 627,276 628,277 628,284 629,285 629,288 630,289 630,292 631,293 631,295 632,296 632,299 633,300 633,302 635,304 635,308 636,309 636,310 637,311 637,312 639,314 639,315 640,316 640,317 642,319 642,320 646,323 773,323 773,324 773,328 774,329 774,333 775,334 775,358 776,358 777,358"/>
+        <Word id="w200">
+          <Coords points="700,207 700,207 700,358 700,358"/>
+          <Glyph id="w200g0">
+            <Coords points="700,207 700,207 700,358 700,358"/>
+            <TextEquiv index="1" conf="0.3396341069601476">
+              <Unicode>V</Unicode>
+            </TextEquiv>
+          </Glyph>
+          <TextEquiv index="1" conf="0.3396341069601476">
+            <Unicode>V</Unicode>
+          </TextEquiv>
+        </Word>
+        <TextEquiv index="1" conf="0.3396341069601476">
+          <Unicode>V</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="r0_l003">
+        <Coords points="545,1225 545,1136 112,1136 112,1225 545,1225"/>
+        <TextEquiv index="1" conf="0.0">
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
